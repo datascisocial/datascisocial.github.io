@@ -42,7 +42,7 @@ pygmentsStyle = "tango"
 
 # Configure how URLs look like per section.
 [permalinks]
-blog = "/:section/:year/:month/:day/:slug/"
+blog = "/:section/:year-:month-:day/:slug/"
 
 # Image processing configuration.
 [imaging]
@@ -59,13 +59,13 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "datasci.social"
+title = "datasci.social community"
 description = "datasci.social community pages"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
+time_format_default = "2006-01-02"
+time_format_blog = "2006-01-02"
 
 
 [markup]
