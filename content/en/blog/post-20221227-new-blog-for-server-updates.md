@@ -14,4 +14,4 @@ Was a great learning experience on #githubPages, #githubActions, and #Hugo 👍
 We now also have a new admin email address: datasci.social@proton.me
 This will be important for whenever we possibly have more admins in the future.
 
-![Screenshot of our server update blog showing header and the last blog post](https://datascisocial.github.io/blog/images/blogscreenshot20221227.png "Screenshot of our server update blog showing header and the last blog post")
+![Screenshot of our server update blog showing header and the last blog post](images/blogscreenshot20221227.png "Screenshot of our server update blog showing header and the last blog post")
