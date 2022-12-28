@@ -11,4 +11,4 @@ If registrations were open, would you join https://datasci.social? :python: :rst
 
 (Context: Registrations are currently closed due to limited budget/capacity, but we could consider to grow in 2023. No promises though! #serverinfo #mastoadmin )
 
-![30% (15) Yes, 56% (28) No, 20% (10) I'm already there and want it to grow, 8% (4) I'm already there and don't want it to grow](images/poll20221217.png "30% (15) Yes, 56% (28) No, 20% (10) I'm already there and want it to grow, 8% (4) I'm already there and don't want it to grow")
+![30% (15) Yes, 56% (28) No, 20% (10) I'm already there and want it to grow, 8% (4) I'm already there and don't want it to grow](https://datascisocial.github.io/images/poll20221217.png "30% (15) Yes, 56% (28) No, 20% (10) I'm already there and want it to grow, 8% (4) I'm already there and don't want it to grow")

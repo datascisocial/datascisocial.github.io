@@ -10,6 +10,6 @@ tags: [community]
 Btw, today https://datasci.social has turned 1 month old 🥳  #serverinfo #mastoadmin  
 We are 45 people now, see below our place in the universe of instances:
 
-![datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows users vs posts of all mastodon instances.](images/b602a0c6ab4e8f38.png "datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows users vs posts of all mastodon instances.")
+![datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows users vs posts of all mastodon instances.](https://datascisocial.github.io/images/b602a0c6ab4e8f38.png "datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows users vs posts of all mastodon instances.")
 
-![Chart showing growth of users in blue and number of posts in yellow. Users are now at 45, posts above 600.](images/fcacb93d328590ab.png "Chart showing growth of users in blue and number of posts in yellow. Users are now at 45, posts above 600.")
+![Chart showing growth of users in blue and number of posts in yellow. Users are now at 45, posts above 600.](https://datascisocial.github.io/images/fcacb93d328590ab.png "Chart showing growth of users in blue and number of posts in yellow. Users are now at 45, posts above 600.")
