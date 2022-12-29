@@ -9,6 +9,6 @@ menu:
 ---
 
 {{% pageinfo %}}
-TBA
+Site under construction. Please check back later.
 {{% /pageinfo %}}
 
