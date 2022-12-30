@@ -1,5 +1,5 @@
-baseURL = "https://datascisocial.github.io"
-title = "datasci.social community"
+baseURL = "https://community.datasci.social"
+title = "community.datasci.social"
 
 # Language settings
 contentDir = "content/en"
@@ -59,7 +59,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "datasci.social community"
+title = "community.datasci.social"
 description = "datasci.social community pages"
 languageName ="English"
 # Weight used for sorting.
