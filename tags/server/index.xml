@@ -1,7 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – server</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in server on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 27 Dec 2022 18:00:00 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Site under construction. Please check back later.&lt;/p>
-&lt;/div></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
+&lt;/div>
+&lt;p>The instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
+&lt;blockquote>
+&lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="philosophy-and-motivation">Philosophy and motivation&lt;/h3>
+&lt;p>The server capacity is 100 active members due to limited financing with personal funding. We are investing our personal resources to counter the danger of exploitation capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter&amp;rsquo;s demise. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be the perfect place for you. And if you just came to post/discuss about research - that&amp;rsquo;s perfectly fine! :)&lt;/p>
+&lt;h3 id="registration">Registration&lt;/h3>
+&lt;p>Registration is currently closed / invite-only &lt;a href="https://community.datasci.social/blog/2022-11-17/invite-only-registrations/">due to limited server capacity&lt;/a>.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Site under construction. Please check back later.&lt;/p>
 &lt;/div>
@@ -30,6 +38,19 @@
 &lt;ul>
 &lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
 &lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a>, so the github change log of this page serves as a rule change log.&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>Don&amp;rsquo;t be a jerk&lt;/li>
+&lt;li>Nothing NSFW (not safe for work), such as sexually explicit or violent media&lt;/li>
+&lt;li>No racism, sexism, homophobia, transphobia, xenophobia, or casteism&lt;/li>
+&lt;li>No incitement of violence or promotion of violent ideologies&lt;/li>
+&lt;li>No harassment, dogpiling, doxxing, or impersonation&lt;/li>
+&lt;li>No content that is considered illegal in Denmark or France&lt;/li>
+&lt;li>No intentional sharing of false or misleading information&lt;/li>
+&lt;li>No spam or commercial advertisements&lt;/li>
 &lt;/ul></description></item><item><title>Docs: Support</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
 &lt;p>Have fun and please follow the &lt;a href="https://datasci.social/about">server rules&lt;/a>.&lt;/p></description></item><item><title>Blog: New blog for server updates</title><link>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</guid><description>
 &lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109586707593045947">https://datasci.social/@mszll/109586707593045947&lt;/a>]&lt;/p>
