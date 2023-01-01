@@ -1,1 +1,43 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – Documentation</title><link>https://community.datasci.social/docs/</link><description>Recent content in Documentation on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/docs/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – Documentation</title><link>https://community.datasci.social/docs/</link><description>Recent content in Documentation on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Site under construction. Please check back later.&lt;/p>
+&lt;/div></description></item><item><title>Docs: Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Site under construction. Please check back later.&lt;/p>
+&lt;/div>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;p>All moderation and administration is done by our admin and mod team, consisting of: TBA&lt;/p>
+&lt;h2 id="user-based-moderation">User-based moderation&lt;/h2>
+&lt;p>TBA&lt;/p>
+&lt;h2 id="server-based-moderation-blocklist">Server-based moderation (blocklist)&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Site under construction. Please check back later.&lt;/p>
+&lt;/div>
+&lt;h2 id="status">Status&lt;/h2>
+&lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
+&lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Uptime&lt;/th>
+&lt;th>Downtime, human-readable&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2022&lt;/td>
+&lt;td>99.995%&lt;/td>
+&lt;td>max. 3 minutes down in 6 weeks&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="outages">Outages&lt;/h3>
+&lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage">/tags/outage&lt;/a>&lt;/p>
+&lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
+&lt;ul>
+&lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
+&lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: Support</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
+&lt;p>Have fun and please follow the &lt;a href="https://datasci.social/about">server rules&lt;/a>.&lt;/p></description></item></channel></rss>

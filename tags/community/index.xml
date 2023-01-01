@@ -1,4 +1,17 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – community</title><link>https://community.datasci.social/tags/community/</link><description>Recent content in community on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 27 Dec 2022 18:00:00 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: New blog for server updates</title><link>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – community</title><link>https://community.datasci.social/tags/community/</link><description>Recent content in community on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 27 Dec 2022 18:00:00 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Site under construction. Please check back later.&lt;/p>
+&lt;/div></description></item><item><title>Docs: Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Site under construction. Please check back later.&lt;/p>
+&lt;/div>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;p>All moderation and administration is done by our admin and mod team, consisting of: TBA&lt;/p>
+&lt;h2 id="user-based-moderation">User-based moderation&lt;/h2>
+&lt;p>TBA&lt;/p>
+&lt;h2 id="server-based-moderation-blocklist">Server-based moderation (blocklist)&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>Docs: Support</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
+&lt;p>Have fun and please follow the &lt;a href="https://datasci.social/about">server rules&lt;/a>.&lt;/p></description></item><item><title>Blog: New blog for server updates</title><link>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</guid><description>
 &lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109586707593045947">https://datasci.social/@mszll/109586707593045947&lt;/a>]&lt;/p>
 &lt;p>I have finished setting up a blog about server updates for &lt;a href="https://datasci.social">https://datasci.social&lt;/a> here: &lt;a href="https://datascisocial.github.io/blog/">https://datascisocial.github.io/blog/&lt;/a> #serverinfo #mastoadmin&lt;/p>
 &lt;p>Was a great learning experience on #githubPages, #githubActions, and #Hugo 👍&lt;/p>
