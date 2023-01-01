@@ -1,7 +1,7 @@
 ---
 title: "Server"
 linkTitle: "Server"
-description: "Technical information about server"
+description: "Technical information about the server"
 weight: 30
 tags: [server, outage]
 ---
