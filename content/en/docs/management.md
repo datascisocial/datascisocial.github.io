@@ -6,17 +6,17 @@ weight: 5
 tags: [community, server, registration]
 ---
 
-{{% pageinfo %}}
-Site under construction. Please check back later.
-{{% /pageinfo %}}
-
-The instance was [set up on Nov 17, 2022](https://community.datasci.social/blog/2022-11-17/datasci.social-opened/), for this reason:
+### Raison d'être
+The datasci.social instance was [set up on Nov 17, 2022](/blog/2022-11-17/datasci.social-opened/), for this reason:
 
 > The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.
 
-### Philosophy and motivation
-The server capacity is 100 active members due to limited financing with personal funding. We are investing our personal resources to counter the danger of exploitation capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter's demise. We believe we can do things better in a "grassroots" approach. If you agree, then datasci.social could be the perfect place for you. And if you just came to post/discuss about research - that's perfectly fine! :)
+The current server capacity is 100 active members due to limited financing with personal funding. This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter's demise. We believe we can do things better in a "grassroots" approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - that's perfect! 👍 See more on our [about page](/about/). 
 
-### Registration
+Visit our [support page](/docs/support/) to find out how to support us.
 
-Registration is currently closed / invite-only [due to limited server capacity](https://community.datasci.social/blog/2022-11-17/invite-only-registrations/).
+### Management, security & trust
+
+The community is currently managed by [a volunteer team of data scientists](/docs/moderation/#team). The founder of datasci.social has [20+ years of experience with massive online community management](https://github.com/mszell/mastoadminresources/blob/main/communityguide.md). We are currently financed by personal funds, but would move to a donations-based model if we grow. Our [roadmap](/docs/roadmap) is clear.
+
+We adhere to the [Mastodon covenant](https://joinmastodon.org/covenant), and [our community pages](https://community.datasci.social) are openly improvable by the community [on Github](https://github.com/datascisocial/datascisocial.github.io) (via issue or pull request). On our [community updates blog](/blog) we communicate updates timely and transparently. Our server is hosted and managed by experienced Mastodon server admins following excellent industry uptime standards, see [our technical server docs](/docs/server/). See our [privacy policy](https://datasci.social/privacy-policy) for how we deal with privacy and data.
