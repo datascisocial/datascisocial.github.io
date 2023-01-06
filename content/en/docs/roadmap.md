@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 linkTitle: "Roadmap"
-description: "Roadmap"
+description: "List of our short and long-term plans"
 weight: 90
 tags: [community, server, registration]
 ---
