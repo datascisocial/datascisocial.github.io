@@ -3,11 +3,11 @@ title: "Server rules"
 linkTitle: "Server rules"
 description: "Server rules"
 weight: 50
-tags: [server, community]
+tags: [server, community, moderation]
 ---
 
 {{% pageinfo %}}
-This page should always be held in sync with the [server rules](https://datasci.social/about), so the github change log of this page serves as a rule change log.
+This page should always be held in sync with the [server rules](https://datasci.social/about) and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.
 {{% /pageinfo %}}
 
 - Don't be a jerk

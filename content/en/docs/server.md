@@ -6,9 +6,7 @@ weight: 30
 tags: [server, outage]
 ---
 
-{{% pageinfo %}}
-Site under construction. Please check back later.
-{{% /pageinfo %}}
+Our server is hosted in the world's largest data center in France and managed by experienced Mastodon server admins from the [Spacebear federation](https://federation.spacebear.ee/).
 
 ## Status
 Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimerobot.com/DllMwIoAWM)
