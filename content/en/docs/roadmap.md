@@ -11,7 +11,7 @@ tags: [community, server, registration]
 --- | --- | ---|
 DONE | 2022&#x2011;12&#x2011;27 | Set up a [blog for communication of instance updates](https://community.datasci.social/blog/)
 DONE | 2023&#x2011;01&#x2011;06 | Set up [community documentation](https://community.datasci.social/docs/)
-DONE | 2023&#x2011;01&#x2011;06 | Assemble admin/mod team
+DONE | 2023&#x2011;01&#x2011;06 | Assemble [admin/mod team](https://community.datasci.social/docs/moderation/#team)
 DONE | 2023&#x2011;01&#x2011;06 | Adhere to [Mastodon covenant](https://joinmastodon.org/covenant)
 PLANNED | 2023&#x2011;01 | Extend our server capacity one time to accommodate up to 500 active people
 PLANNED | 2023&#x2011;01 | Open registrations and grow until 300 active members
