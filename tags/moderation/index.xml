@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – moderation</title><link>https://community.datasci.social/tags/moderation/</link><description>Recent content in moderation on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/tags/moderation/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;p>All moderation and administration is done by our volunteer admin(istrator) and mod(erator) team:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Handle&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Ben F. Maier&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@benfmaier">@benfmaier&lt;/a>&lt;/td>
+&lt;td>Admin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Erika Legara&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@eflegara">@eflegara&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Esteban Moro&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@estebanmoro">@estebanmoro&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Michael Szell&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@mszll">@mszll&lt;/a>&lt;/td>
+&lt;td>Admin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Silvia De Sojo Caso&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@sdesojo">@sdesojo&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Our admin contact email is: &lt;a href="mailto:datasci.social@proton.me">datasci.social@proton.me&lt;/a>&lt;/p>
+&lt;h2 id="individual-based-moderation">Individual-based moderation&lt;/h2>
+&lt;p>To report a post, click on the three dots below the post and select “Report”. Please include all relevant context to help us process the report.&lt;/p>
+&lt;p>&lt;img src="https://community.datasci.social/images/reportpost.png" alt="How to report a post" title="How to report a post">&lt;/p>
+&lt;p>When our team receives reports through Mastodon&amp;rsquo;s report interface, we decide whether to resolve without action or which action to take depending on severity and repeat offense. The action can range from deletion of offending posts, warning, temporal limiting an account&amp;rsquo;s posts from showing in feeds, or account suspension. If an account from a different server is suspended, that account is banned from interacting with our server.&lt;/p>
+&lt;p>If an action is required, the first action for minor offenses is usually a warning, ramping up in severity for repeat offenses. We aim to be as reasonable as possible, and we do not let racism, sexism, etc. off the hook - even if perceived as minor. Though we have done our best to formulate &lt;a href="https://community.datasci.social/docs/server-rules">our server rules&lt;/a> concisely and comprehensively, this list is not all-inclusive and there can always be unforeseen situations that need to be handled on an individual basis.&lt;/p>
+&lt;p>Please always use Mastodon&amp;rsquo;s report interface - reports communicated directly to mod/admin accounts (for example via direct message) will not be processed. If for any reason using Mastodon&amp;rsquo;s report interface is not possible, write us to our admin contact email address as a last resort.&lt;/p>
+&lt;h2 id="server-based-moderation-blocklist">Server-based moderation (blocklist)&lt;/h2>
+&lt;p>Blocklists are a way that a Mastodon instance can handle unwanted content on the instance level. When a Mastodon domain is on our blocklist (see &lt;a href="https://datasci.social/about">&lt;em>Moderated servers&lt;/em>&lt;/a>), this means that our admins have limited or completely suspended activity with the server at that domain.&lt;/p>
+&lt;p>How we curate our blocklist:&lt;/p>
+&lt;ul>
+&lt;li>Initial import from the trusted instance &lt;a href="https://mastodon.social/about">mastodon.social&lt;/a>&lt;/li>
+&lt;li>Adding or removing new instances as needed&lt;/li>
+&lt;/ul>
+&lt;p>Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance&amp;rsquo;s local moderation is known. We try to be reasonable: It can be important to block fast, but &lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">too indiscriminate blocking can also be harmful&lt;/a>. If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.&lt;/p></description></item><item><title>Docs: Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a> and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>Don&amp;rsquo;t be a jerk&lt;/li>
+&lt;li>Nothing NSFW (not safe for work), such as sexually explicit or violent media&lt;/li>
+&lt;li>No racism, sexism, homophobia, transphobia, xenophobia, or casteism&lt;/li>
+&lt;li>No incitement of violence or promotion of violent ideologies&lt;/li>
+&lt;li>No harassment, dogpiling, doxxing, or impersonation&lt;/li>
+&lt;li>No content that is considered illegal in Denmark or France&lt;/li>
+&lt;li>No intentional sharing of false or misleading information&lt;/li>
+&lt;li>No spam or commercial advertisements&lt;/li>
+&lt;/ul></description></item></channel></rss>

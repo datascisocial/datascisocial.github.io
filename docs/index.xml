@@ -1,27 +1,68 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – Documentation</title><link>https://community.datasci.social/docs/</link><description>Recent content in Documentation on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>Site under construction. Please check back later.&lt;/p>
-&lt;/div>
-&lt;p>The instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – Community documentation</title><link>https://community.datasci.social/docs/</link><description>Recent content in Community documentation on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>
+&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
+&lt;p>The datasci.social instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
 &lt;blockquote>
 &lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>
 &lt;/blockquote>
-&lt;h3 id="philosophy-and-motivation">Philosophy and motivation&lt;/h3>
-&lt;p>The server capacity is 100 active members due to limited financing with personal funding. We are investing our personal resources to counter the danger of exploitation capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter&amp;rsquo;s demise. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be the perfect place for you. And if you just came to post/discuss about research - that&amp;rsquo;s perfectly fine! :)&lt;/p>
-&lt;h3 id="registration">Registration&lt;/h3>
-&lt;p>Registration is currently closed / invite-only &lt;a href="https://community.datasci.social/blog/2022-11-17/invite-only-registrations/">due to limited server capacity&lt;/a>.&lt;/p></description></item><item><title>Docs: Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>Site under construction. Please check back later.&lt;/p>
-&lt;/div>
+&lt;p>The current server capacity is 100 active members due to limited financing with personal funding. This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter&amp;rsquo;s demise. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - that&amp;rsquo;s perfect! 👍 See more on our &lt;a href="https://community.datasci.social/about/">about page&lt;/a>.&lt;/p>
+&lt;p>Visit our &lt;a href="https://community.datasci.social/docs/support/">support page&lt;/a> to find out how to support us.&lt;/p>
+&lt;h3 id="management-security--trust">Management, security &amp;amp; trust&lt;/h3>
+&lt;p>The community is currently managed by &lt;a href="https://community.datasci.social/docs/moderation/#team">a volunteer team of data scientists&lt;/a>. The founder of datasci.social has &lt;a href="https://github.com/mszell/mastoadminresources/blob/main/communityguide.md">20+ years of experience with massive online community management&lt;/a>. We are currently financed by personal funds, but would move to a donations-based model if we grow. Our &lt;a href="https://community.datasci.social/docs/roadmap">roadmap&lt;/a> is clear.&lt;/p>
+&lt;p>We adhere to the &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>, and &lt;a href="https://community.datasci.social">our community pages&lt;/a> are openly improvable by the community &lt;a href="https://github.com/datascisocial/datascisocial.github.io">on Github&lt;/a> (via issue or pull request). On our &lt;a href="https://community.datasci.social/blog">community updates blog&lt;/a> we communicate updates timely and transparently. Our server is hosted and managed by experienced Mastodon server admins following excellent industry uptime standards, see &lt;a href="https://community.datasci.social/docs/server/">our technical server docs&lt;/a>. See our &lt;a href="https://datasci.social/privacy-policy">privacy policy&lt;/a> for how we deal with privacy and data.&lt;/p></description></item><item><title>Docs: Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>
 &lt;h2 id="team">Team&lt;/h2>
-&lt;p>All moderation and administration is done by our admin and mod team, consisting of: TBA&lt;/p>
-&lt;h2 id="user-based-moderation">User-based moderation&lt;/h2>
-&lt;p>TBA&lt;/p>
+&lt;p>All moderation and administration is done by our volunteer admin(istrator) and mod(erator) team:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Handle&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Ben F. Maier&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@benfmaier">@benfmaier&lt;/a>&lt;/td>
+&lt;td>Admin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Erika Legara&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@eflegara">@eflegara&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Esteban Moro&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@estebanmoro">@estebanmoro&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Michael Szell&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@mszll">@mszll&lt;/a>&lt;/td>
+&lt;td>Admin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Silvia De Sojo Caso&lt;/td>
+&lt;td>&lt;a href="https://datasci.social/@sdesojo">@sdesojo&lt;/a>&lt;/td>
+&lt;td>Mod&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Our admin contact email is: &lt;a href="mailto:datasci.social@proton.me">datasci.social@proton.me&lt;/a>&lt;/p>
+&lt;h2 id="individual-based-moderation">Individual-based moderation&lt;/h2>
+&lt;p>To report a post, click on the three dots below the post and select “Report”. Please include all relevant context to help us process the report.&lt;/p>
+&lt;p>&lt;img src="https://community.datasci.social/images/reportpost.png" alt="How to report a post" title="How to report a post">&lt;/p>
+&lt;p>When our team receives reports through Mastodon&amp;rsquo;s report interface, we decide whether to resolve without action or which action to take depending on severity and repeat offense. The action can range from deletion of offending posts, warning, temporal limiting an account&amp;rsquo;s posts from showing in feeds, or account suspension. If an account from a different server is suspended, that account is banned from interacting with our server.&lt;/p>
+&lt;p>If an action is required, the first action for minor offenses is usually a warning, ramping up in severity for repeat offenses. We aim to be as reasonable as possible, and we do not let racism, sexism, etc. off the hook - even if perceived as minor. Though we have done our best to formulate &lt;a href="https://community.datasci.social/docs/server-rules">our server rules&lt;/a> concisely and comprehensively, this list is not all-inclusive and there can always be unforeseen situations that need to be handled on an individual basis.&lt;/p>
+&lt;p>Please always use Mastodon&amp;rsquo;s report interface - reports communicated directly to mod/admin accounts (for example via direct message) will not be processed. If for any reason using Mastodon&amp;rsquo;s report interface is not possible, write us to our admin contact email address as a last resort.&lt;/p>
 &lt;h2 id="server-based-moderation-blocklist">Server-based moderation (blocklist)&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>Site under construction. Please check back later.&lt;/p>
-&lt;/div>
+&lt;p>Blocklists are a way that a Mastodon instance can handle unwanted content on the instance level. When a Mastodon domain is on our blocklist (see &lt;a href="https://datasci.social/about">&lt;em>Moderated servers&lt;/em>&lt;/a>), this means that our admins have limited or completely suspended activity with the server at that domain.&lt;/p>
+&lt;p>How we curate our blocklist:&lt;/p>
+&lt;ul>
+&lt;li>Initial import from the trusted instance &lt;a href="https://mastodon.social/about">mastodon.social&lt;/a>&lt;/li>
+&lt;li>Adding or removing new instances as needed&lt;/li>
+&lt;/ul>
+&lt;p>Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance&amp;rsquo;s local moderation is known. We try to be reasonable: It can be important to block fast, but &lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">too indiscriminate blocking can also be harmful&lt;/a>. If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
+&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>.&lt;/p>
 &lt;h2 id="status">Status&lt;/h2>
 &lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
 &lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
@@ -49,7 +90,7 @@
 &lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
-&lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a>, so the github change log of this page serves as a rule change log.&lt;/p>
+&lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a> and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p>
 &lt;/div>
 &lt;ul>
 &lt;li>Don&amp;rsquo;t be a jerk&lt;/li>
@@ -60,5 +101,97 @@
 &lt;li>No content that is considered illegal in Denmark or France&lt;/li>
 &lt;li>No intentional sharing of false or misleading information&lt;/li>
 &lt;li>No spam or commercial advertisements&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Support</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
-&lt;p>Have fun and please follow the &lt;a href="https://datasci.social/about">server rules&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Docs: Roadmap</title><link>https://community.datasci.social/docs/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/roadmap/</guid><description>
+&lt;h3 id="roadmap-2023">Roadmap 2023&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Status&lt;/th>
+&lt;th>Time&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>DONE&lt;/td>
+&lt;td>2022‑12‑27&lt;/td>
+&lt;td>Set up a &lt;a href="https://community.datasci.social/blog/">blog for communication of instance updates&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DONE&lt;/td>
+&lt;td>2023‑01‑04&lt;/td>
+&lt;td>Set up &lt;a href="https://community.datasci.social/docs/">community documentation&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DONE&lt;/td>
+&lt;td>2023‑01‑04&lt;/td>
+&lt;td>Assemble admin/mod team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DONE&lt;/td>
+&lt;td>2023‑01‑04&lt;/td>
+&lt;td>Adhere to &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PLANNED&lt;/td>
+&lt;td>2023‑01&lt;/td>
+&lt;td>Extend our server capacity one time to accommodate up to 500 active people&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PLANNED&lt;/td>
+&lt;td>2023‑01&lt;/td>
+&lt;td>Open registrations and grow until 300 active members&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PLANNED&lt;/td>
+&lt;td>2023‑02&lt;/td>
+&lt;td>Set up a donation page to help covering running costs&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PLANNED&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Once 300 members reached, close registrations and wait for some time for the community to stabilize before deciding on any next steps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CONDITIONAL&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Depending on need: Adjust server rules and/or community documents&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CONDITIONAL&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Depending on need: Extend admin/mod team&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="roadmap-2024">Roadmap 2024+&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Status&lt;/th>
+&lt;th>Time&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>CONDITIONAL&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Depending on need: Set up a platform for instance meta-discussions&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CONDITIONAL&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Depending on interest/need: Set up a community-governance structure for community-driven decisions and financing, for example inspired by &lt;a href="https://www.loomio.com/socialcoop">social.coop&lt;/a>. It could be possible to arrive at a governance structure where there is never the danger that one person or a small group can screw up everything.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CONDITIONAL&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Depending on interest: Slightly grow further&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Docs: Support</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
+&lt;p>Have fun and please follow the &lt;a href="https://community.datasci.social/docs/server-rules">server rules&lt;/a>. We are currently financed by personal funds, but would move to a donations-based model if we grow.&lt;/p>
+&lt;h2 id="media">Media&lt;/h2>
+&lt;p>When refering to us, feel free to use our server banner:&lt;/p>
+&lt;p>&lt;img src="https://community.datasci.social/images/logodatascisocial_full.png" alt="Server banner" title="Server banner">&lt;/p></description></item></channel></rss>
