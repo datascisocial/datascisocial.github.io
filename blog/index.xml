@@ -1,4 +1,22 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – datasci.social blog</title><link>https://community.datasci.social/blog/</link><description>Recent content in datasci.social blog on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: New blog for server updates</title><link>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community.datasci.social – datasci.social blog</title><link>https://community.datasci.social/blog/</link><description>Recent content in datasci.social blog on community.datasci.social</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://community.datasci.social/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: New team, roadmap, community pages</title><link>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</link><pubDate>Fri, 06 Jan 2023 11:42:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</guid><description>
+&lt;p>In preparation for opening datasci.social registrations next week, some news 🚨&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>New mod/admin team: &lt;a href="https://community.datasci.social/docs/moderation/">https://community.datasci.social/docs/moderation/&lt;/a> @benfmaier @eflegara @estebanmoro @sdesojo Not a single report so far, but good to be prepared.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>We adhere to the Mastodon covenant: &lt;a href="https://joinmastodon.org/covenant">https://joinmastodon.org/covenant&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Roadmap: &lt;a href="https://community.datasci.social/docs/roadmap/">https://community.datasci.social/docs/roadmap/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Community pages: &lt;a href="https://community.datasci.social/docs">https://community.datasci.social/docs&lt;/a>, with info on management, moderation, security, server. Check it out! #mastoadmin #serverinfo&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Stay tuned for opening news!&lt;/p>
+&lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109641856876435648">https://datasci.social/@mszll/109641856876435648&lt;/a>]&lt;/p>
+&lt;p>&lt;a href="">&lt;img src="https://community.datasci.social/images/communityscreenshot.png" alt="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers" title="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers">&lt;/a>&lt;/p></description></item><item><title>Blog: New blog for server updates</title><link>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/</guid><description>
 &lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109586707593045947">https://datasci.social/@mszll/109586707593045947&lt;/a>]&lt;/p>
 &lt;p>I have finished setting up a blog about server updates for &lt;a href="https://datasci.social">https://datasci.social&lt;/a> here: &lt;a href="https://datascisocial.github.io/blog/">https://datascisocial.github.io/blog/&lt;/a> #serverinfo #mastoadmin&lt;/p>
 &lt;p>Was a great learning experience on #githubPages, #githubActions, and #Hugo 👍&lt;/p>
