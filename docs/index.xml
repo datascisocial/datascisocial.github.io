@@ -63,6 +63,9 @@
 &lt;/ul>
 &lt;p>Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance&amp;rsquo;s local moderation is known. We try to be reasonable: It can be important to block fast, but &lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">too indiscriminate blocking can also be harmful&lt;/a>. If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
 &lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>.&lt;/p>
+&lt;h2 id="registration">Registration&lt;/h2>
+&lt;p>Registration is currently closed / invite-only &lt;a href="https://community.datasci.social/blog/2022-11-17/invite-only-registrations/">due to limited server capacity&lt;/a>.&lt;/p>
+&lt;p>Current estimated capacity: &lt;code>100&lt;/code>&lt;/p>
 &lt;h2 id="status">Status&lt;/h2>
 &lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
 &lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
