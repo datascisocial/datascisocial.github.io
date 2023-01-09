@@ -9,9 +9,8 @@ tags: [server, outage, registration]
 Our server is hosted in the world's largest data center in France and managed by experienced Mastodon server admins from the [Spacebear federation](https://federation.spacebear.ee/).
 
 ## Registration
-Registration is currently closed / invite-only [due to limited server capacity](/blog/2022-11-17/invite-only-registrations/).
-
-Current estimated capacity: `100`
+Registration is currently: [`open`](/blog/2023-01-12/registrations-opened/)  
+Current estimated capacity: `500`
 
 ## Status
 Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimerobot.com/DllMwIoAWM)
