@@ -11,10 +11,10 @@ This page should always be held in sync with the [server rules](https://datasci.
 {{% /pageinfo %}}
 
 - Don't be a jerk. We expect to treat each other respectfully.
-- Nothing NSFW (not safe for work), such as sexually explicit or violent media
 - No racism, sexism, homophobia, transphobia, xenophobia, or casteism
 - No incitement of violence or promotion of violent ideologies
 - No harassment, dogpiling, doxxing, or impersonation
 - No content that is considered illegal in Denmark or France
 - No intentional sharing of false or misleading information
 - No spam or commercial advertisements
+- Nothing NSFW (not safe for work), such as sexually explicit or violent media
