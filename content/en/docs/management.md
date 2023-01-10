@@ -3,7 +3,7 @@ title: "Management"
 linkTitle: "Management"
 description: "Management, philosophy, security & trust"
 weight: 5
-tags: [community, server, registration]
+tags: [community, server]
 ---
 
 ### Raison d'être

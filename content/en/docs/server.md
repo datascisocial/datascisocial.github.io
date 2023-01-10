@@ -10,6 +10,7 @@ Our server is hosted in the world's largest data center in France and managed by
 
 ## Registration
 Registration is currently: [`open`](/blog/2023-01-12/registrations-opened/)  
+Register here: [https://datasci.social/auth/sign_up](https://datasci.social/auth/sign_up)  
 Current estimated capacity: `500`
 
 ## Status
