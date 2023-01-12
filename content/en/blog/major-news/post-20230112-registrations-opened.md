@@ -1,6 +1,6 @@
 ---
 title: "Registrations opened"
-date: "2023-01-12T12:00:00+01:00"
+date: "2023-01-12T11:00:00+01:00"
 description: "We extended our server capacity and opened registrations"
 tags: [registration, community, server, moderation]
 ---
