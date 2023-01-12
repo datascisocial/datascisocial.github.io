@@ -18,3 +18,4 @@ This page should always be held in sync with the [server rules](https://datasci.
 - No intentional sharing of false or misleading information
 - No spam or commercial advertisements
 - Nothing NSFW (not safe for work), such as sexually explicit or violent media
+- SIGN-UP: This is not a generalist server and is destined for professionals in human-centric data science. Please register here only if that is the case. To get accepted for sign-up, specify your fit and provide a link to your ORCID (https://orcid.org/XXXX-XXXX-XXXX-XXXX) in the "Why do you want to join?" field.
