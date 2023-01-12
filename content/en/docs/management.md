@@ -11,7 +11,7 @@ The datasci.social instance was [set up on Nov 17, 2022](/blog/2022-11-17/datasc
 
 > The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.
 
-This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter's demise. We believe we can do things better in a "grassroots" approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - that's perfect! 👍 See more on our [about page](/about/). 
+This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter's demise. We believe we can do things better in a "grassroots" approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - or *any* other topic you find interesting - that's perfect! 👍 See more on our [about page](/about/). 
 
 Visit our [support page](/docs/support/) to find out how to support us.
 
