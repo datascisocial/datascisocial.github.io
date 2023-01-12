@@ -4,7 +4,7 @@
 &lt;blockquote>
 &lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>
 &lt;/blockquote>
-&lt;p>The current server capacity is 100 active members due to limited financing with personal funding. This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter&amp;rsquo;s demise. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - that&amp;rsquo;s perfect! 👍 See more on our &lt;a href="https://community.datasci.social/about/">about page&lt;/a>.&lt;/p>
+&lt;p>This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by Twitter&amp;rsquo;s demise. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - that&amp;rsquo;s perfect! 👍 See more on our &lt;a href="https://community.datasci.social/about/">about page&lt;/a>.&lt;/p>
 &lt;p>Visit our &lt;a href="https://community.datasci.social/docs/support/">support page&lt;/a> to find out how to support us.&lt;/p>
 &lt;h3 id="management-security--trust">Management, security &amp;amp; trust&lt;/h3>
 &lt;p>The community is currently managed by &lt;a href="https://community.datasci.social/docs/moderation/#team">a volunteer team of data scientists&lt;/a>. Server finances are managed by Michael Szell. Our running costs are currently financed by personal funds which we will soon complement with a donations-based model. Our &lt;a href="https://community.datasci.social/docs/roadmap">roadmap&lt;/a> is clear.&lt;/p>
@@ -64,8 +64,9 @@
 &lt;p>Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance&amp;rsquo;s local moderation is known. We try to be reasonable: It can be important to block fast, but &lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">too indiscriminate blocking can also be harmful&lt;/a>. If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
 &lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>.&lt;/p>
 &lt;h2 id="registration">Registration&lt;/h2>
-&lt;p>Registration is currently closed / invite-only &lt;a href="https://community.datasci.social/blog/2022-11-17/invite-only-registrations/">due to limited server capacity&lt;/a>.&lt;/p>
-&lt;p>Current estimated capacity: &lt;code>100&lt;/code>&lt;/p>
+&lt;p>Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">&lt;code>open&lt;/code>&lt;/a>&lt;br>
+Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;br>
+Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
 &lt;h2 id="status">Status&lt;/h2>
 &lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
 &lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
@@ -104,6 +105,7 @@
 &lt;li>No intentional sharing of false or misleading information&lt;/li>
 &lt;li>No spam or commercial advertisements&lt;/li>
 &lt;li>Nothing NSFW (not safe for work), such as sexually explicit or violent media&lt;/li>
+&lt;li>SIGN-UP: This is not a generalist server and is destined for professionals in human-centric data science. Please register here only if that is the case. To get accepted for sign-up, specify your fit and provide a link to your ORCID (&lt;a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">https://orcid.org/XXXX-XXXX-XXXX-XXXX&lt;/a>) in the &amp;ldquo;Why do you want to join?&amp;rdquo; field.&lt;/li>
 &lt;/ul></description></item><item><title>Docs: Roadmap</title><link>https://community.datasci.social/docs/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/roadmap/</guid><description>
 &lt;h3 id="roadmap-2023">Roadmap 2023&lt;/h3>
 &lt;table>
@@ -136,13 +138,13 @@
 &lt;td>Adhere to &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>PLANNED&lt;/td>
-&lt;td>2023‑01&lt;/td>
+&lt;td>DONE&lt;/td>
+&lt;td>2023‑01‑12&lt;/td>
 &lt;td>Extend our server capacity one time to accommodate up to 500 active people&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>PLANNED&lt;/td>
-&lt;td>2023‑01&lt;/td>
+&lt;td>DONE&lt;/td>
+&lt;td>2023‑01‑12&lt;/td>
 &lt;td>Open registrations and grow until 300 active members&lt;/td>
 &lt;/tr>
 &lt;tr>
