@@ -29,5 +29,5 @@ List of outages: [/tags/outage](/tags/outage)
 ## Miscellaneous
 
 - Custom emojis: [https://emojos.in/datasci.social](https://emojos.in/datasci.social)
-- mastodon.help directory: [https://mastodon.help/instances/en?desc=datasci.social](https://mastodon.help/instances/en?desc=datasci.social)
+- mastodon.help directory: [https://mastodon.help/instances?id=17318](https://mastodon.help/instances?id=17318)
 - instances.social directory: [https://instances.social/datasci.social](https://instances.social/datasci.social)
