@@ -88,32 +88,32 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2022‑12‑27&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/">2022‑12‑27&lt;/a>&lt;/td>
 &lt;td>Set up a &lt;a href="https://community.datasci.social/blog/">blog for communication of instance updates&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2023‑01‑06&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/">2023‑01‑06&lt;/a>&lt;/td>
 &lt;td>Set up &lt;a href="https://community.datasci.social/docs/">community documentation&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2023‑01‑06&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/">2023‑01‑06&lt;/a>&lt;/td>
 &lt;td>Assemble &lt;a href="https://community.datasci.social/docs/moderation/#team">admin/mod team&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2023‑01‑06&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/">2023‑01‑06&lt;/a>&lt;/td>
 &lt;td>Adhere to &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2023‑01‑12&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">2023‑01‑12&lt;/a>&lt;/td>
 &lt;td>Extend our server capacity one time to accommodate up to 500 active people&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DONE&lt;/td>
-&lt;td>2023‑01‑12&lt;/td>
+&lt;td>&lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">2023‑01‑12&lt;/a>&lt;/td>
 &lt;td>Open registrations (to grow until 300 active members)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -124,7 +124,7 @@
 &lt;tr>
 &lt;td>PLANNED&lt;/td>
 &lt;td>2023&lt;/td>
-&lt;td>Once 300 members reached, close registrations, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps&lt;/td>
+&lt;td>Once 300 active members reached, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>CONDITIONAL&lt;/td>
