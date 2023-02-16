@@ -9,14 +9,14 @@ tags: [community, server, registration]
 ### Roadmap 2023
 |Status | Time  | Event|
 --- | --- | ---|
-DONE | 2022&#x2011;12&#x2011;27 | Set up a [blog for communication of instance updates](https://community.datasci.social/blog/)
-DONE | 2023&#x2011;01&#x2011;06 | Set up [community documentation](https://community.datasci.social/docs/)
-DONE | 2023&#x2011;01&#x2011;06 | Assemble [admin/mod team](https://community.datasci.social/docs/moderation/#team)
-DONE | 2023&#x2011;01&#x2011;06 | Adhere to [Mastodon covenant](https://joinmastodon.org/covenant)
-DONE | 2023&#x2011;01&#x2011;12 | Extend our server capacity one time to accommodate up to 500 active people
-DONE | 2023&#x2011;01&#x2011;12 | Open registrations (to grow until 300 active members)
+DONE | [2022&#x2011;12&#x2011;27](https://community.datasci.social/blog/2022-12-27/new-blog-for-server-updates/) | Set up a [blog for communication of instance updates](https://community.datasci.social/blog/)
+DONE | [2023&#x2011;01&#x2011;06](https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/) | Set up [community documentation](https://community.datasci.social/docs/)
+DONE | [2023&#x2011;01&#x2011;06](https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/) | Assemble [admin/mod team](https://community.datasci.social/docs/moderation/#team)
+DONE | [2023&#x2011;01&#x2011;06](https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/) | Adhere to [Mastodon covenant](https://joinmastodon.org/covenant)
+DONE | [2023&#x2011;01&#x2011;12](https://community.datasci.social/blog/2023-01-12/registrations-opened/) | Extend our server capacity one time to accommodate up to 500 active people
+DONE | [2023&#x2011;01&#x2011;12](https://community.datasci.social/blog/2023-01-12/registrations-opened/) | Open registrations (to grow until 300 active members)
 PLANNED | 2023&#x2011;02 |  Set up a donation page to help covering running costs
-PLANNED | 2023 | Once 300 members reached, close registrations, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps
+PLANNED | 2023 | Once 300 active members reached, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps
 CONDITIONAL | | Depending on need: Adjust server rules and/or community documents
 CONDITIONAL | | Depending on need: Extend admin/mod team
 
