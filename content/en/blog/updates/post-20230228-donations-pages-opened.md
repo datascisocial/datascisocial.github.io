@@ -1,6 +1,6 @@
 ---
 title: "Donations pages opened"
-date: "2023-01-28T14:40:00+01:00"
+date: "2023-02-28T14:40:00+01:00"
 description: "Donations pages opened"
 tags: [community, server]
 ---
