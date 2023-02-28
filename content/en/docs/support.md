@@ -13,13 +13,19 @@ We have yearly running costs of several hundred &euro; for server hosting, maint
 **We appreciate any support - all goes directly to server hosting and maintenance and makes datasci.social possible!**
 
 ## Supporters
-Here we list all supporters who commit at least 6$ or 6&euro; per month.
+
 
 ### Gold Sponsors
-*none yet - be the first!*
+Here we list all supporters who commit at least 15$ or 15&euro; per month.
+> *none yet - be the first!*
 
 ### Sponsors
-*none yet - be the first!*
+Here we list all supporters who commit at least 6$ or 6&euro; per month.
+> *none yet - be the first!*
+
+### 2023 Kickstarters
+Here we list all supporters who commited *any* amount in 2023 and helped us kickstart our community.
+> *none yet - be the first!*
 
 ## Media
 When refering to us, feel free to use our server banner:
