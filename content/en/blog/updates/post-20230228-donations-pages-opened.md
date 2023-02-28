@@ -11,4 +11,4 @@ We will list supporters on our support page: [https://community.datasci.social/d
 
 We appreciate any support - every $ counts, and all goes directly to server hosting and maintenance!
 
-![Screenshot from our Patreon page, showing 4 different membership tiers](/images/patreonscreenshot.png "Screenshot from our Patreon page, showing 4 different membership tiers")
+[![Screenshot from our Patreon page, showing 4 different membership tiers](/images/patreonscreenshot.png "Screenshot from our Patreon page, showing 4 different membership tiers")](https://www.patreon.com/bePatron?u=88962596)
