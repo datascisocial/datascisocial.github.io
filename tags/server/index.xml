@@ -9,7 +9,7 @@
 &lt;h3 id="management-security--trust">Management, security &amp;amp; trust&lt;/h3>
 &lt;p>The community is currently managed by &lt;a href="https://community.datasci.social/docs/moderation/#team">a volunteer team of data scientists&lt;/a>. Server finances are managed by Michael Szell. Our running costs are currently financed by personal funds which we will soon complement with a donations-based model. Our &lt;a href="https://community.datasci.social/docs/roadmap">roadmap&lt;/a> is clear.&lt;/p>
 &lt;p>We adhere to the &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>, and &lt;a href="https://community.datasci.social">our community pages&lt;/a> are openly improvable by the community &lt;a href="https://github.com/datascisocial/datascisocial.github.io">on Github&lt;/a> (via issue or pull request). On our &lt;a href="https://community.datasci.social/blog">community updates blog&lt;/a> we communicate updates timely and transparently. Our server is hosted and managed by experienced Mastodon server admins following excellent industry uptime standards, see &lt;a href="https://community.datasci.social/docs/server/">our technical server docs&lt;/a>. See our &lt;a href="https://datasci.social/privacy-policy">privacy policy&lt;/a> for how we deal with privacy and data.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
-&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>.&lt;/p>
+&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/">Support&lt;/a>&lt;/p>
 &lt;h2 id="registration">Registration&lt;/h2>
 &lt;p>Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">&lt;code>open&lt;/code>&lt;/a>&lt;br>
 Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;br>
@@ -144,9 +144,25 @@ Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>Docs: Support and financing</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
-&lt;p>Have fun and please follow the &lt;a href="https://community.datasci.social/docs/server-rules">server rules&lt;/a>.&lt;/p>
-&lt;h2 id="financing">Financing&lt;/h2>
-&lt;p>We are currently financed by personal funds, but will soon move to a crowdfunded, donations-based model. We are dedicated to ensure sustainable, long-term financing.&lt;/p>
+&lt;p>We have yearly running costs of several hundred € for server hosting, maintenance, data backups, and the domain name. To cover these costs we are relying on crowdfunded donations. If you want to support our operation please consider donating - every single € counts!&lt;/p>
+&lt;p>&lt;a href="https://www.patreon.com/bePatron?u=88962596">&lt;img alt="Donate using Liberapay" src="https://community.datasci.social/images/patreonbutton.png" width=270>&lt;/a>   &lt;a href="https://liberapay.com/datasci.social/donate">&lt;img alt="Donate using Liberapay" src="https://community.datasci.social/images/liberapaybutton.svg" width=142>&lt;/a>&lt;/p>
+&lt;p>&lt;strong>We appreciate any support - all goes directly to server hosting and maintenance and makes datasci.social possible!&lt;/strong>&lt;/p>
+&lt;h2 id="supporters">Supporters&lt;/h2>
+&lt;h3 id="gold-sponsors">Gold Sponsors&lt;/h3>
+&lt;p>Here we list all supporters who commit at least 15$ or 15€ per month.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="sponsors">Sponsors&lt;/h3>
+&lt;p>Here we list all supporters who commit at least 6$ or 6€ per month.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="2023-kickstarters">2023 Kickstarters&lt;/h3>
+&lt;p>Here we list all supporters who commited &lt;em>any&lt;/em> amount in 2023 and helped us kickstart our community.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
 &lt;h2 id="media">Media&lt;/h2>
 &lt;p>When refering to us, feel free to use our server banner:&lt;/p>
 &lt;p>&lt;img src="https://community.datasci.social/images/logodatascisocial_full.png" alt="Server banner" title="Server banner">&lt;/p></description></item><item><title>Blog: 100 members</title><link>https://community.datasci.social/blog/2023-02-27/100-members/</link><pubDate>Mon, 27 Feb 2023 10:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-02-27/100-members/</guid><description>
@@ -159,7 +175,10 @@ Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
 &lt;p>&lt;img src="https://community.datasci.social/images/universe20230227.png" alt="datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows members vs posts of all mastodon instances." title="datasci.social is marked with a yellow circle in the middle of the log-log scatterplot that shows members vs posts of all mastodon instances.">&lt;/p></description></item><item><title>Blog: Mastodon version updated to 4.1.0</title><link>https://community.datasci.social/blog/2023-02-22/mastodon-version-updated-to-4.1.0/</link><pubDate>Wed, 22 Feb 2023 21:50:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-02-22/mastodon-version-updated-to-4.1.0/</guid><description>
 &lt;p>Our server &lt;a href="https://datasci.social">https://datasci.social&lt;/a> just got its Mastodon version upgraded to the latest version 4.1.0 which was released two weeks ago. Most notably, you can now add alt text to images you have already posted or edit existing alt text. It has been frustrating until now to be unable to add/edit forgotten or incorrect alt text.&lt;/p>
 &lt;p>Apart from alt texts and many small fixes, it is now possible for admins to import server-wide domain blocks which might come in handy for server-level moderation.&lt;/p>
-&lt;p>See the full release notes here: &lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.1.0">https://github.com/mastodon/mastodon/releases/tag/v4.1.0&lt;/a>&lt;/p></description></item><item><title>Blog: Registrations opened</title><link>https://community.datasci.social/blog/2023-01-12/registrations-opened/</link><pubDate>Thu, 12 Jan 2023 11:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-12/registrations-opened/</guid><description>
+&lt;p>See the full release notes here: &lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.1.0">https://github.com/mastodon/mastodon/releases/tag/v4.1.0&lt;/a>&lt;/p></description></item><item><title>Blog: Donations pages opened</title><link>https://community.datasci.social/blog/2023-01-28/donations-pages-opened/</link><pubDate>Sat, 28 Jan 2023 14:40:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-28/donations-pages-opened/</guid><description>
+&lt;p>We opened a Patreon page to allow our members supporting our running costs financially, which is several 100$ per year: &lt;a href="https://www.patreon.com/bePatron?u=88962596">https://www.patreon.com/bePatron?u=88962596&lt;/a>&lt;/p>
+&lt;p>We will list supporters on our support page: &lt;a href="https://community.datasci.social/docs/support/">https://community.datasci.social/docs/support/&lt;/a>&lt;/p>
+&lt;p>We appreciate any support - every $ counts, and all goes directly to server hosting and maintenance!&lt;/p></description></item><item><title>Blog: Registrations opened</title><link>https://community.datasci.social/blog/2023-01-12/registrations-opened/</link><pubDate>Thu, 12 Jan 2023 11:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-12/registrations-opened/</guid><description>
 &lt;p>🚨 &lt;strong>Registrations at datasci.social are now open&lt;/strong>! Sign up here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;/p>
 &lt;p>How to migrate your account: &lt;a href="https://mstdn.social/@feditips/107939441820299376">https://mstdn.social/@feditips/107939441820299376&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://datasci.social/auth/sign_up">&lt;img src="https://community.datasci.social/images/serverexpand.png" alt="datasci.social" title="datasci.social registrations open">&lt;/a>&lt;/p>

@@ -62,7 +62,7 @@
 &lt;li>Adding or removing new instances as needed&lt;/li>
 &lt;/ul>
 &lt;p>Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance&amp;rsquo;s local moderation is known. We try to be reasonable: It can be important to block fast, but &lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">too indiscriminate blocking can also be harmful&lt;/a>. If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
-&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>.&lt;/p>
+&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/">Support&lt;/a>&lt;/p>
 &lt;h2 id="registration">Registration&lt;/h2>
 &lt;p>Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">&lt;code>open&lt;/code>&lt;/a>&lt;br>
 Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;br>
@@ -197,9 +197,25 @@ Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>Docs: Support and financing</title><link>https://community.datasci.social/docs/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/support/</guid><description>
-&lt;p>Have fun and please follow the &lt;a href="https://community.datasci.social/docs/server-rules">server rules&lt;/a>.&lt;/p>
-&lt;h2 id="financing">Financing&lt;/h2>
-&lt;p>We are currently financed by personal funds, but will soon move to a crowdfunded, donations-based model. We are dedicated to ensure sustainable, long-term financing.&lt;/p>
+&lt;p>We have yearly running costs of several hundred € for server hosting, maintenance, data backups, and the domain name. To cover these costs we are relying on crowdfunded donations. If you want to support our operation please consider donating - every single € counts!&lt;/p>
+&lt;p>&lt;a href="https://www.patreon.com/bePatron?u=88962596">&lt;img alt="Donate using Liberapay" src="https://community.datasci.social/images/patreonbutton.png" width=270>&lt;/a>   &lt;a href="https://liberapay.com/datasci.social/donate">&lt;img alt="Donate using Liberapay" src="https://community.datasci.social/images/liberapaybutton.svg" width=142>&lt;/a>&lt;/p>
+&lt;p>&lt;strong>We appreciate any support - all goes directly to server hosting and maintenance and makes datasci.social possible!&lt;/strong>&lt;/p>
+&lt;h2 id="supporters">Supporters&lt;/h2>
+&lt;h3 id="gold-sponsors">Gold Sponsors&lt;/h3>
+&lt;p>Here we list all supporters who commit at least 15$ or 15€ per month.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="sponsors">Sponsors&lt;/h3>
+&lt;p>Here we list all supporters who commit at least 6$ or 6€ per month.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="2023-kickstarters">2023 Kickstarters&lt;/h3>
+&lt;p>Here we list all supporters who commited &lt;em>any&lt;/em> amount in 2023 and helped us kickstart our community.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>none yet - be the first!&lt;/em>&lt;/p>
+&lt;/blockquote>
 &lt;h2 id="media">Media&lt;/h2>
 &lt;p>When refering to us, feel free to use our server banner:&lt;/p>
 &lt;p>&lt;img src="https://community.datasci.social/images/logodatascisocial_full.png" alt="Server banner" title="Server banner">&lt;/p></description></item></channel></rss>
