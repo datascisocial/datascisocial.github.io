@@ -10,3 +10,5 @@ We opened a Patreon page to allow our members supporting our running costs finan
 We will list supporters on our support page: [https://community.datasci.social/docs/support/](https://community.datasci.social/docs/support/)
 
 We appreciate any support - every $ counts, and all goes directly to server hosting and maintenance!
+
+![Screenshot from our Patreon page, showing 4 different membership tiers](/images/patreonscreenshot.png "Screenshot from our Patreon page, showing 4 different membership tiers")
