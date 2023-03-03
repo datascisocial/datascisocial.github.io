@@ -21,11 +21,12 @@ Here we list all supporters who commit at least 15$ or 15&euro; per month.
 
 ### Sponsors
 Here we list all supporters who commit at least 6$ or 6&euro; per month.
-> *none yet - be the first!*
+> **Mikhail Popov**
+
 
 ### 2023 Kickstarters
 Here we list all supporters who commited *any* amount in 2023 and helped us kickstart our community.
-> *none yet - be the first!*
+> **Mikhail Popov**
 
 ## Media
 When refering to us, feel free to use our server banner:
