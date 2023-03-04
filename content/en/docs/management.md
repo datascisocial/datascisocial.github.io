@@ -17,6 +17,6 @@ Visit our [support page](/docs/support/) to find out how to support us.
 
 ### Management, security & trust
 
-The community is currently managed by [a volunteer team of data scientists](/docs/moderation/#team). Server finances are managed by Michael Szell. Our running costs are currently financed by personal funds which we will soon complement with a donations-based model. Our [roadmap](/docs/roadmap) is clear.
+The community is currently managed by [a volunteer team of data scientists](/docs/moderation/#team). Server finances are managed by Michael Szell. Our running costs are financed by [voluntary donations](/docs/support/). Our [roadmap](/docs/roadmap) is clear.
 
 We adhere to the [Mastodon covenant](https://joinmastodon.org/covenant), and [our community pages](https://community.datasci.social) are openly improvable by the community [on Github](https://github.com/datascisocial/datascisocial.github.io) (via issue or pull request). On our [community updates blog](/blog) we communicate updates timely and transparently. Our server is hosted and managed by experienced Mastodon server admins following excellent industry uptime standards, see [our technical server docs](/docs/server/). See our [privacy policy](https://datasci.social/privacy-policy) for how we deal with privacy and data.
