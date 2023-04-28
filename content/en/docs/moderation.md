@@ -14,6 +14,7 @@ All moderation and administration is done by our volunteer admin(istrator) and m
 Ben F. Maier| [@benfmaier](https://datasci.social/@benfmaier) | Admin
 Erika Legara| [@eflegara](https://datasci.social/@eflegara) | Mod
 Esteban Moro| [@estebanmoro](https://datasci.social/@estebanmoro) | Mod
+Lucio La Cava| [@luciolcw](https://datasci.social/@luciolcw) | Admin
 Michael Szell| [@mszll](https://datasci.social/@mszll) | Admin
 Silvia De Sojo Caso| [@sdesojo](https://datasci.social/@sdesojo) | Mod
 
