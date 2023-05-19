@@ -16,12 +16,12 @@ We have yearly running costs of several hundred &euro; for server hosting, maint
 
 
 ### Gold Sponsors
-Here we list all supporters who commit at least 15$ or 15&euro; per month.
+Here we list all supporters who currently commit at least 15$ or 15&euro; per month.
 > *none yet - be the first!*
 
 ### Sponsors
-Here we list all supporters who commit at least 6$ or 6&euro; per month.
-> **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro** &nbsp;·&nbsp; **Mikhail Popov**
+Here we list all supporters who currently commit at least 6$ or 6&euro; per month.
+> **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro**
 
 
 ### 2023 Kickstarters
