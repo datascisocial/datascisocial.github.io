@@ -6,12 +6,11 @@ weight: 30
 tags: [server, outage, registration]
 ---
 
-Our server is hosted in the world's largest data center in France and managed by experienced Mastodon server admins from the [Spacebear federation](https://federation.spacebear.ee/). To support our running costs, please see: [Support](/docs/support/)
+Our server is hosted in the world's largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: [Support](/docs/support/)
 
 ## Registration
 Registration is currently: [`open`](/blog/2023-01-12/registrations-opened/)  
-Register here: [https://datasci.social/auth/sign_up](https://datasci.social/auth/sign_up)  
-Current estimated capacity: `500`
+Register here: [https://datasci.social/auth/sign_up](https://datasci.social/auth/sign_up)
 
 ## Status
 Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimerobot.com/DllMwIoAWM)
