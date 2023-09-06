@@ -9,11 +9,10 @@
 &lt;h3 id="management-security--trust">Management, security &amp;amp; trust&lt;/h3>
 &lt;p>The community is currently managed by &lt;a href="https://community.datasci.social/docs/moderation/#team">a volunteer team of data scientists&lt;/a>. Server finances are managed by Michael Szell. Our running costs are financed by &lt;a href="https://community.datasci.social/docs/support/">voluntary donations&lt;/a>. Our &lt;a href="https://community.datasci.social/docs/roadmap">roadmap&lt;/a> is clear.&lt;/p>
 &lt;p>We adhere to the &lt;a href="https://joinmastodon.org/covenant">Mastodon covenant&lt;/a>, and &lt;a href="https://community.datasci.social">our community pages&lt;/a> are openly improvable by the community &lt;a href="https://github.com/datascisocial/datascisocial.github.io">on Github&lt;/a> (via issue or pull request). On our &lt;a href="https://community.datasci.social/blog">community updates blog&lt;/a> we communicate updates timely and transparently. Our server is hosted and managed by experienced Mastodon server admins following excellent industry uptime standards, see &lt;a href="https://community.datasci.social/docs/server/">our technical server docs&lt;/a>. See our &lt;a href="https://datasci.social/privacy-policy">privacy policy&lt;/a> for how we deal with privacy and data.&lt;/p></description></item><item><title>Docs: Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>
-&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins from the &lt;a href="https://federation.spacebear.ee/">Spacebear federation&lt;/a>. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/">Support&lt;/a>&lt;/p>
+&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/">Support&lt;/a>&lt;/p>
 &lt;h2 id="registration">Registration&lt;/h2>
 &lt;p>Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">&lt;code>open&lt;/code>&lt;/a>&lt;br>
-Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;br>
-Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
+Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;/p>
 &lt;h2 id="status">Status&lt;/h2>
 &lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
 &lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
@@ -96,13 +95,13 @@ Current estimated capacity: &lt;code>500&lt;/code>&lt;/p>
 &lt;td>Open registrations (to grow until 300 active members)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>PLANNED&lt;/td>
+&lt;td>DONE&lt;/td>
 &lt;td>&lt;a href="https://community.datasci.social/blog/2023-02-28/donations-pages-opened/">2023‑02-28&lt;/a>&lt;/td>
 &lt;td>Set up a donation page to help covering running costs&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>PLANNED&lt;/td>
-&lt;td>2023&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>Once 300 active members reached, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps&lt;/td>
 &lt;/tr>
 &lt;tr>
