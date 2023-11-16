@@ -16,7 +16,7 @@ DONE | [2023&#x2011;01&#x2011;06](https://community.datasci.social/blog/2023-01-
 DONE | [2023&#x2011;01&#x2011;12](https://community.datasci.social/blog/2023-01-12/registrations-opened/) | Extend our server capacity one time to accommodate up to 500 active people
 DONE | [2023&#x2011;01&#x2011;12](https://community.datasci.social/blog/2023-01-12/registrations-opened/) | Open registrations (to grow until 300 active members)
 DONE | [2023&#x2011;02-28](https://community.datasci.social/blog/2023-02-28/donations-pages-opened/) |  Set up a donation page to help covering running costs
-PLANNED | | Once 300 active members reached, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps
+CONDITIONAL | | If at any point active members grow too fast, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps. Cap the number of active members at a level (order of magnitude 1000), so the community stays manageable.
 CONDITIONAL | | Depending on need: Adjust server rules and/or community documents
 CONDITIONAL | | Depending on need: Extend admin/mod team
 
