@@ -127,9 +127,9 @@
 &lt;td>Set up a donation page to help covering running costs&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>PLANNED&lt;/td>
+&lt;td>CONDITIONAL&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>Once 300 active members reached, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps&lt;/td>
+&lt;td>If at any point active members grow too fast, close registrations temporarily, monitor server load, and wait for some time for the community to stabilize before deciding on any next steps. Cap the number of active members at a level (order of magnitude 1000), so the community stays manageable.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>CONDITIONAL&lt;/td>
