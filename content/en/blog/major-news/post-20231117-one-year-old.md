@@ -1,6 +1,6 @@
 ---
 title: "One year old"
-date: "2023-11-17T11:00:00+01:00"
+date: "2023-11-17T06:00:00+01:00"
 description: "datasci.social is one year old"
 tags: [registration, community, server, moderation]
 ---
