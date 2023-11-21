@@ -21,7 +21,7 @@ Here we list all supporters who currently commit at least 15$ or 15&euro; per mo
 
 ### Sponsors
 Here we list all supporters who currently commit at least 6$ or 6&euro; per month.
-> **Stephen Davies** &nbsp;·&nbsp; **Luca Rossi** &nbsp;·&nbsp; **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro**
+> **Benjamin F. Maier** &nbsp;·&nbsp; **Stephen Davies** &nbsp;·&nbsp; **Luca Rossi** &nbsp;·&nbsp; **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro**
 
 ### Backers
 Here we list all supporters who currently commit at least 2$ or 2&euro; per month.
@@ -30,7 +30,7 @@ Here we list all supporters who currently commit at least 2$ or 2&euro; per mont
 
 ### 2023 Kickstarters
 Here we list all supporters who commited *any* amount in 2023 and helped us kickstart our community.
-> **Stephen Davies** &nbsp;·&nbsp; **Luca Rossi** &nbsp;·&nbsp; **Egor Kotov** &nbsp;·&nbsp; **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro** &nbsp;·&nbsp; **Mikhail Popov**
+> **Benjamin F. Maier** &nbsp;·&nbsp; **Stephen Davies** &nbsp;·&nbsp; **Luca Rossi** &nbsp;·&nbsp; **Egor Kotov** &nbsp;·&nbsp; **Yong-Yeol Ahn** &nbsp;·&nbsp; **Esteban Moro** &nbsp;·&nbsp; **Mikhail Popov**
 
 ## Media
 When refering to us, feel free to use our server banner:
