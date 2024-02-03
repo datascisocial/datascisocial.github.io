@@ -20,10 +20,14 @@ Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimer
 |Year |Uptime  | Downtime, human-readable|
 --- | --- | ---|
 2022| 99.995% | max. 3 minutes down in 6 weeks|
+2023| 99.908% | 40 minutes down per month, on average|
 
 ### Outages
 
 List of outages: [/tags/outage](/tags/outage)
+
+### Current Mastodon version
+[`4.2.5`](https://github.com/mastodon/mastodon/releases/tag/v4.2.5), since 2024-02-01
 
 ## Miscellaneous
 
