@@ -27,7 +27,7 @@ Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimer
 List of outages: [/tags/outage](/tags/outage)
 
 ### Current Mastodon version
-[`4.2.6`](https://github.com/mastodon/mastodon/releases/tag/v4.2.6), since 2024-02-15
+[`4.2.7`](https://github.com/mastodon/mastodon/releases/tag/v4.2.7), since 2024-02-17
 
 ## Miscellaneous
 
