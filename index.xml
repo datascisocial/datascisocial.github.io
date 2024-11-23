@@ -85,6 +85,7 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.
 &lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
 &lt;li>mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318">https://mastodon.help/instances?id=17318&lt;/a>&lt;/li>
 &lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
+&lt;li>Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social">https://mastodon.fediverse.observer/&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a> and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p>
 
