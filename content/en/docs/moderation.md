@@ -22,6 +22,10 @@ Our admin contact email is: datasci.social@proton.me
 
 ## Individual-based moderation
 
+### Sign-up
+Moderation for individuals begins with checking whether a new user provided an adequate reason during sign-up, as stated in [our server rules](/docs/server-rules). Inadequate reasons include any generic statements such as "joining to learn", "networking", "interesting instance", "coming from twitter", etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon.
+
+### Conduct
 To report a post, click on the three dots below the post and select “Report”. Please include all relevant context to help us process the report.
 
 ![How to report a post](/images/reportpost.png "How to report a post")
