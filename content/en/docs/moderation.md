@@ -23,7 +23,7 @@ Our admin contact email is: datasci.social@proton.me
 ## Individual-based moderation
 
 ### Sign-up
-Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in [our server rules](/docs/server-rules). Inadequate reasons include any generic statements such as "joining to learn", "networking", "interesting instance", "coming from twitter", etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon. 
+Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in [our server rules](/docs/server-rules). Inadequate reasons include any generic statements such as "joining to learn", "networking", "interesting server", "coming from twitter", etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon. 
 
 We process sign-up applications as leniently as possible and are happy to welcome everybody, but please read the rules - they are to the point. We also aim to be as fast as possible; in the worst case it can take up to 12 hours, usually much faster.
 
@@ -40,10 +40,10 @@ Please always use Mastodon's report interface - reports communicated directly to
 
 
 ## Server-based moderation (blocklist)
-Blocklists are a way that a Mastodon instance can handle unwanted content on the instance level. When a Mastodon domain is on our blocklist (see [*Moderated servers*](https://datasci.social/about)), this means that our admins have limited or completely suspended activity with the server at that domain.
+Blocklists are a way that a Mastodon server can handle unwanted content on the server level. When a Mastodon domain is on our blocklist (see [*Moderated servers*](https://datasci.social/about)), this means that our admins have limited or completely suspended activity with the server at that domain.
 
 How we curate our blocklist:
-- Initial import from the trusted instance [mastodon.social](https://mastodon.social/about)
-- Adding or removing new instances as needed
+- Initial import from the trusted server [mastodon.social](https://mastodon.social/about)
+- Adding or removing new servers as needed
 
-Need to add can arise for example when many accounts from a specific instance are reported and if the inadequacy of that instance's local moderation is known. We try to be reasonable: It can be important to block fast, but [too indiscriminate blocking can also be harmful](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html). If you have good reason we should add or remove an instance from our blocklist, please contact us at our admin email address and include clear context.
+Need to add can arise for example when many accounts from a specific server are reported and if the [inadequacy of that server's local moderation](https://community.datasci.social/blog/2025-01-20/threads-suspended) is known. We try to be reasonable: It can be important to block fast, but [too indiscriminate blocking can also be harmful](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html). If you have good reason we should add or remove an server from our blocklist, please contact us at our admin email address and include clear context.
