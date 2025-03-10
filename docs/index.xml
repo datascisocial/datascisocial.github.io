@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community documentation on community.datasci.social</title><link>https://community.datasci.social/docs/</link><description>Recent content in Community documentation on community.datasci.social</description><generator>Hugo</generator><language>en</language><atom:link href="https://community.datasci.social/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
 &lt;p>The datasci.social instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
 &lt;blockquote>
-&lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>
-&lt;/blockquote>
+&lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>&lt;/blockquote>
 &lt;p>This instance aims to counter the danger of surveillance capitalism screwing up social media and manipulating public opinion, as demonstrated recently by &lt;a href="https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji">Twitter&amp;rsquo;s demise&lt;/a>. We believe we can do things better in a &amp;ldquo;grassroots&amp;rdquo; approach. If you agree, then datasci.social could be a fitting place for you. And if you just came to post/discuss about research - or &lt;em>any&lt;/em> other topic you find interesting - that&amp;rsquo;s perfect! 👍 See more on our &lt;a href="https://community.datasci.social/about/">about page&lt;/a>.&lt;/p></description></item><item><title>Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>&lt;h2 id="team">Team&lt;/h2>
 &lt;p>All moderation and administration is done by our volunteer admin(istrator) and mod(erator) team:&lt;/p>
 &lt;table>
@@ -80,7 +79,7 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.
 &lt;h3 id="outages">Outages&lt;/h3>
 &lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage/">/tags/outage&lt;/a>&lt;/p>
 &lt;h3 id="current-mastodon-version">Current Mastodon version&lt;/h3>
-&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.3.3">&lt;code>4.3.3&lt;/code>&lt;/a>, since 2025-01-17&lt;/p>
+&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.3.4">&lt;code>4.3.4&lt;/code>&lt;/a>, since 2025-03-09&lt;/p>
 &lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
 &lt;ul>
 &lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
