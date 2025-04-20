@@ -1,4 +1,5 @@
-![Build](https://github.com/datascisocial/datascisocial.github.io/actions/workflows/gh-pages.yml/badge.svg)
+![Build](https://github.com/datascisocial/datascisocial.github.io/actions/workflows/gh-pages.yml/badge.svg)  
+**Server status**: https://stats.uptimerobot.com/DllMwIoAWM
 
 # community.datasci.social pages
 This is the content and Hugo backend to render the datasci.social community pages (including landing page and blog), at [community.datasci.social](https://community.datasci.social).  
