@@ -19,8 +19,10 @@ Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimer
 
 |Year |Uptime  | Downtime, human-readable|
 --- | --- | ---|
-2022| 99.995% | max. 3 minutes down in 6 weeks|
+2024| 99.998% |  <1 minute down per month, on average|
 2023| 99.908% | 40 minutes down per month, on average|
+2022| 99.995% | <3 minutes down in 6 weeks|
+
 
 ### Outages
 
