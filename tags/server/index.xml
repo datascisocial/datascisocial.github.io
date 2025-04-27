@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 27 Apr 2025 09:19:47 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 27 Apr 2025 13:57:20 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
 &lt;p>The datasci.social instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
 &lt;blockquote>
 &lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>&lt;/blockquote>
@@ -14,29 +14,38 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.
  &lt;tr>
  &lt;th>Year&lt;/th>
  &lt;th>Uptime&lt;/th>
- &lt;th>Downtime, human-readable&lt;/th>
+ &lt;th>Average downtime per month&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
  &lt;td>2024&lt;/td>
  &lt;td>99.998%&lt;/td>
- &lt;td>&amp;lt;1 minute down per month, on average&lt;/td>
+ &lt;td>&amp;lt;1 minute&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>2023&lt;/td>
  &lt;td>99.908%&lt;/td>
- &lt;td>40 minutes down per month, on average&lt;/td>
+ &lt;td>40 minutes&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>2022&lt;/td>
  &lt;td>99.995%&lt;/td>
- &lt;td>&amp;lt;3 minutes down in 6 weeks&lt;/td>
+ &lt;td>&amp;lt;2 minutes&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
 &lt;h3 id="outages">Outages&lt;/h3>
-&lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage/">/tags/outage&lt;/a>&lt;/p></description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary">
+&lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage/">/tags/outage&lt;/a>&lt;/p>
+&lt;h3 id="current-mastodon-version">Current Mastodon version&lt;/h3>
+&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.3.4">&lt;code>4.3.4&lt;/code>&lt;/a>, since 2025-03-09&lt;/p>
+&lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
+&lt;ul>
+&lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
+&lt;li>mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318">https://mastodon.help/instances?id=17318&lt;/a>&lt;/li>
+&lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
+&lt;li>Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social">https://mastodon.fediverse.observer/datasci.social&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a> and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p>
 
 &lt;/div>
