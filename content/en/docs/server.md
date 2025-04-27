@@ -17,11 +17,11 @@ Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimer
 
 ### Historical uptimes
 
-|Year |Uptime  | Downtime, human-readable|
+|Year |Uptime  | Average downtime per month|
 --- | --- | ---|
-2024| 99.998% |  <1 minute down per month, on average|
-2023| 99.908% | 40 minutes down per month, on average|
-2022| 99.995% | <3 minutes down in 6 weeks|
+2024| 99.998% |  <1 minute|
+2023| 99.908% | 40 minutes|
+2022| 99.995% | <2 minutes|
 
 
 ### Outages
