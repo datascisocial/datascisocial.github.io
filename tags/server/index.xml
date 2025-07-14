@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 06 Jun 2025 10:08:09 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 14 Jul 2025 23:12:02 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre">Raison d&amp;rsquo;être&lt;/h3>
 &lt;p>The datasci.social instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/">set up on Nov 17, 2022&lt;/a>, for this reason:&lt;/p>
 &lt;blockquote>
 &lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p>&lt;/blockquote>
@@ -38,7 +38,7 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.
 &lt;h3 id="outages">Outages&lt;/h3>
 &lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage/">/tags/outage&lt;/a>&lt;/p>
 &lt;h3 id="current-mastodon-version">Current Mastodon version&lt;/h3>
-&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.3.8">&lt;code>4.3.8&lt;/code>&lt;/a>, since 2025-06-05&lt;/p>
+&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.4.1">&lt;code>4.4.1&lt;/code>&lt;/a>, since 2025-07-13&lt;/p>
 &lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
 &lt;ul>
 &lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
