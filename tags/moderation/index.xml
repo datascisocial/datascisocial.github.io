@@ -1,104 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moderation on community.datasci.social</title><link>https://community.datasci.social/tags/moderation/</link><description>Recent content in Moderation on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 08:30:38 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/moderation/index.xml" rel="self" type="application/rss+xml"/><item><title>Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>&lt;h2 id="team">Team&lt;/h2>
-&lt;p>All moderation and administration is done by our volunteer admin(istrator) and mod(erator) team:&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Name&lt;/th>
- &lt;th>Handle&lt;/th>
- &lt;th>Role&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Ben F. Maier&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@benfmaier">@benfmaier&lt;/a>&lt;/td>
- &lt;td>Admin&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Erika Legara&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@eflegara">@eflegara&lt;/a>&lt;/td>
- &lt;td>Mod&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Esteban Moro&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@estebanmoro">@estebanmoro&lt;/a>&lt;/td>
- &lt;td>Mod&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Lucio La Cava&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@luciolcw">@luciolcw&lt;/a>&lt;/td>
- &lt;td>Admin&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Michael Szell&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@mszll">@mszll&lt;/a>&lt;/td>
- &lt;td>Admin&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Silvia De Sojo Caso&lt;/td>
- &lt;td>&lt;a href="https://datasci.social/@sdesojo">@sdesojo&lt;/a>&lt;/td>
- &lt;td>Mod&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>Our admin contact email is: &lt;a href="mailto:datasci.social@proton.me">datasci.social@proton.me&lt;/a>&lt;/p>
-&lt;h2 id="individual-based-moderation">Individual-based moderation&lt;/h2>
-&lt;h3 id="sign-up">Sign-up&lt;/h3>
-&lt;p>Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in &lt;a href="https://community.datasci.social/docs/server-rules/">our server rules&lt;/a>. Inadequate reasons include any generic statements such as &amp;ldquo;joining to learn&amp;rdquo;, &amp;ldquo;networking&amp;rdquo;, &amp;ldquo;interesting server&amp;rdquo;, &amp;ldquo;coming from twitter&amp;rdquo;, etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon.&lt;/p></description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This page should always be held in sync with the &lt;a href="https://datasci.social/about">server rules&lt;/a> and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moderation on community.datasci.social</title><link>https://community.datasci.social/tags/moderation/</link><description>Recent content in Moderation on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Dec 2025 10:54:13 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/moderation/index.xml" rel="self" type="application/rss+xml"/><item><title>Moderation</title><link>https://community.datasci.social/docs/moderation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/moderation/</guid><description>&lt;h2 id="team"&gt;Team&lt;/h2&gt;
+&lt;p&gt;All moderation and administration is done by our volunteer admin(istrator) and mod(erator) team:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Name&lt;/th&gt;
+ &lt;th&gt;Handle&lt;/th&gt;
+ &lt;th&gt;Role&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ben F. Maier&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@benfmaier"&gt;@benfmaier&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Admin&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Erika Legara&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@eflegara"&gt;@eflegara&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Mod&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Esteban Moro&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@estebanmoro"&gt;@estebanmoro&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Mod&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Lucio La Cava&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@luciolcw"&gt;@luciolcw&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Admin&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Michael Szell&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@mszll"&gt;@mszll&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Admin&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Silvia De Sojo Caso&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://datasci.social/@sdesojo"&gt;@sdesojo&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Mod&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Our admin contact email is: &lt;a href="mailto:datasci.social@proton.me"&gt;datasci.social@proton.me&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="individual-based-moderation"&gt;Individual-based moderation&lt;/h2&gt;
+&lt;h3 id="sign-up"&gt;Sign-up&lt;/h3&gt;
+&lt;p&gt;Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in &lt;a href="https://community.datasci.social/docs/server-rules/"&gt;our server rules&lt;/a&gt;. Inadequate reasons include any generic statements such as &amp;ldquo;joining to learn&amp;rdquo;, &amp;ldquo;networking&amp;rdquo;, &amp;ldquo;interesting server&amp;rdquo;, &amp;ldquo;coming from twitter&amp;rdquo;, etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon.&lt;/p&gt;</description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
+&lt;p&gt;This page should always be held in sync with the &lt;a href="https://datasci.social/about"&gt;server rules&lt;/a&gt; and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p&gt;
 
-&lt;/div>
+&lt;/div&gt;
 
-&lt;ul>
-&lt;li>Please don&amp;rsquo;t be a jerk. We expect to treat each other respectfully.&lt;/li>
-&lt;li>No racism, sexism, homophobia, transphobia, xenophobia, or casteism&lt;/li>
-&lt;li>No incitement of violence or promotion of violent ideologies&lt;/li>
-&lt;li>No harassment, dogpiling, doxxing, or impersonation&lt;/li>
-&lt;li>No content that is considered illegal in Denmark or France&lt;/li>
-&lt;li>No intentional sharing of false or misleading information&lt;/li>
-&lt;li>No spam or commercial advertisements&lt;/li>
-&lt;li>Nothing NSFW (not safe for work), such as sexually explicit or violent media&lt;/li>
-&lt;li>SIGN-UP: This is not a generalist server but for people working or interested in human-centric data science, broadly defined. Please register here only if that is the case. To get accepted for sign-up, specify your fit in the &amp;ldquo;Why do you want to join?&amp;rdquo; field.&lt;/li>
-&lt;/ul></description></item><item><title>Threads suspended</title><link>https://community.datasci.social/blog/2025-01-20/threads-suspended/</link><pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-01-20/threads-suspended/</guid><description>&lt;p>As &lt;a href="https://datasci.social/@mszll/113798322214417466">announced two weeks ago&lt;/a>, we suspended, or &amp;ldquo;defederated from&amp;rdquo;, threads.net today. So far &lt;a href="https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/">we have given the platform the benefit of the doubt following a vigilant &amp;ldquo;wait and see&amp;rdquo; approach&lt;/a> - while hoping that this connection could bring about something positive. Unfortunately, with the recent change towards a &lt;a href="https://www.wired.com/story/meta-immigration-gender-policies-change/">purposefully dehumanizing moderation policy&lt;/a>, federation with Threads has become incompatible for us. It does not help that, at the same time, &lt;a href="https://www.404media.co/meta-is-blocking-links-to-decentralized-instagram-competitor-pixelfed/">Meta is sabotaging the open web through censorship&lt;/a>.&lt;/p></description></item><item><title>Two years old</title><link>https://community.datasci.social/blog/2024-11-15/two-years-old/</link><pubDate>Fri, 15 Nov 2024 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2024-11-15/two-years-old/</guid><description>&lt;p>&lt;a href="https://datasci.social/@mszll/109363241516092529">Two years ago&lt;/a>, datasci.social was created! 🥳2️⃣🎂&lt;br>
-In this time datasci.social has become a vibrant online community: We just had our 10,000th message posted. Almost 500 people have joined from all over the world so far, from various disciplines or from industry, providing an online home for the data science community, broadly defined. Explore our awesome stream here: &lt;a href="https://datasci.social/public/local">https://datasci.social/public/local&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://datascisocial.github.io/images/growth202411.png" alt="datasci.social lifetime user stats. Source: https://mastodon.fediverse.observer/datasci.social" title="datasci.social lifetime user stats. Source: https://mastodon.fediverse.observer/datasci.social">&lt;/p>
-&lt;p>The smoothly paced, mostly constant growth from the first year has continued. Since around a year, user churn has stabilized: We have on average around 3 new signups per week and 3 people becoming inactive, leading to a steady active user number somewhat above 100. With our fantastic team of &lt;a href="https://community.datasci.social/docs/moderation/#team">6 voluntary admins/moderators&lt;/a> we are thus way above most other servers in our moderator per user ratio - smooth sailing! As before, we have enough capacity to grow and are open for signups.&lt;/p></description></item><item><title>Our stance on Threads</title><link>https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/</link><pubDate>Sun, 17 Dec 2023 14:57:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/</guid><description>&lt;p>With Meta&amp;rsquo;s Threads recently starting &lt;a href="https://mastodon.social/@Gargron/111576825980285552">concrete federation experiments&lt;/a>, we have been asked about datasci.social&amp;rsquo;s stance concerning preemptive suspension (also called &amp;ldquo;defederation&amp;rdquo; or &amp;ldquo;fediblock&amp;rdquo;).&lt;/p>
-&lt;p>Here my (Michael&amp;rsquo;s) short answer:&lt;/p>
-&lt;blockquote>
-&lt;p>Has datasci.social suspended or limited the threads.net domain?&lt;br>
-No.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Will datasci.social suspend or limit the threads.net domain?&lt;br>
-Possibly, if/whenever necessary. We are closely monitoring the situation.&lt;/p>&lt;/blockquote>
-&lt;p>Long answer: Given Meta&amp;rsquo;s abysmal history with surveillance capitalism and human rights it is reasonable to consider Threads a bad faith actor, meaning that its activities should be assumed to underlie as exploitative as possible motives. In the context of Mastodon this could mean some kind of &amp;ldquo;Embrace, extend, and extinguish&amp;rdquo; strategy, indiscriminate data collection, or worse. Therefore we are empathethic with any server admin who preemptively suspends or limits the threads.net domain. From our side however, we do not follow this strategy at the moment, because:&lt;/p></description></item><item><title>One year old</title><link>https://community.datasci.social/blog/2023-11-17/one-year-old/</link><pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-11-17/one-year-old/</guid><description>&lt;p>&lt;a href="https://datasci.social/@mszll/109363241516092529">One year ago&lt;/a>, datasci.social was created! 🥳🎂
-In this time datasci.social has become a vibrant online community with 286 people who have joined from all over the world, from various disciplines or from industry, providing an online home for the data science community, broadly defined. Explore our awesome stream here: &lt;a href="https://datasci.social/public/local">https://datasci.social/public/local&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://community.datasci.social/">&lt;img src="https://datascisocial.github.io/images/social_oneyear.png" alt="datasci.social is 1 year old!" title="datasci.social is 1 year old!">&lt;/a>&lt;/p>
-&lt;p>There has been smooth, mostly constant growth over the past year, and luckily we have been facing no moderative or technical challenges. Although we have a fantasic team of &lt;a href="https://community.datasci.social/docs/moderation/#team">6 voluntary admins/moderators&lt;/a>, they didn&amp;rsquo;t have much to do: All that happened in a year was one week of interference from a few spam accounts spawning on other servers, which required in total 5 moderative actions. Our total downtime in this year was 488 minutes, which means an uptime of above 99.9%!&lt;/p></description></item><item><title>New admin</title><link>https://community.datasci.social/blog/2023-04-28/new-admin/</link><pubDate>Fri, 28 Apr 2023 10:26:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-04-28/new-admin/</guid><description>&lt;p>One more admin joined our &lt;a href="https://community.datasci.social/docs/moderation/#team">team&lt;/a> today: Lucio La Cava (&lt;a href="https://datasci.social/@luciolcw">@luciolcw&lt;/a>)&lt;br>
-Lucio is a researcher researching the social network of Mastodon, so he has particular insights into the system.&lt;/p>
-&lt;p>We still had zero moderative reports on our server so far, and we have a calm pace of new sign-ups. Therefore, there is currently no necessity to extend our team, but we want to be well prepared for a possible flood of sign-ups in case other, larger online social networks collapse.&lt;/p></description></item><item><title>100 members</title><link>https://community.datasci.social/blog/2023-02-27/100-members/</link><pubDate>Mon, 27 Feb 2023 10:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-02-27/100-members/</guid><description>&lt;p>We have reached 100 members on &lt;a href="https://datasci.social">https://datasci.social&lt;/a>! 🥳&lt;/p>
-&lt;p>Since opening registrations in Jan with 50 members we have doubled in size, following a nice pace of growth. We are now also steadily posting over 100 new posts/week.&lt;/p>
-&lt;p>With ample capacity to grow, we encourage everyone interested in data science, network science, computational social science, and related fields to join us, or to spread the word about our place. Although we have 5 mods/admins, we still had no single moderative report so far. Our server had 99.998% uptime. Smooth sailing!&lt;/p></description></item><item><title>Registrations opened</title><link>https://community.datasci.social/blog/2023-01-12/registrations-opened/</link><pubDate>Thu, 12 Jan 2023 11:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-12/registrations-opened/</guid><description>&lt;p>🚨 &lt;strong>Registrations at datasci.social are now open&lt;/strong>! Sign up here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;/p>
-&lt;p>How to migrate your account: &lt;a href="https://mstdn.social/@feditips/107939441820299376">https://mstdn.social/@feditips/107939441820299376&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://datasci.social/auth/sign_up">&lt;img src="https://community.datasci.social/images/serverexpand.png" alt="datasci.social" title="datasci.social registrations open">&lt;/a>&lt;/p>
-&lt;p>Before doing so, let us clarify our &lt;a href="https://community.datasci.social/docs/management/#raison-d%C3%AAtre">philosophy&lt;/a> and &lt;a href="https://community.datasci.social/docs/roadmap/">roadmap&lt;/a>:&lt;/p>
-&lt;h2 id="the-present-and-future-of-datascisocial">The present and future of datasci.social&lt;/h2>
-&lt;p>The instance was set up on Nov 17, 2022, for this reason:&lt;/p>
-&lt;blockquote>
-&lt;p>The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p></description></item><item><title>New team, roadmap, community pages</title><link>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</link><pubDate>Fri, 06 Jan 2023 11:42:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</guid><description>&lt;p>In preparation for opening datasci.social registrations next week, some news 🚨&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>New mod/admin team: &lt;a href="https://community.datasci.social/docs/moderation/">https://community.datasci.social/docs/moderation/&lt;/a> @benfmaier @eflegara @estebanmoro @sdesojo Not a single report so far, but good to be prepared.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>We adhere to the Mastodon covenant: &lt;a href="https://joinmastodon.org/covenant">https://joinmastodon.org/covenant&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Roadmap: &lt;a href="https://community.datasci.social/docs/roadmap/">https://community.datasci.social/docs/roadmap/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Community pages: &lt;a href="https://community.datasci.social/docs">https://community.datasci.social/docs&lt;/a>, with info on management, moderation, security, server. Check it out! #mastoadmin #serverinfo&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>Stay tuned for opening news!&lt;/p>
-&lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109641856876435648">https://datasci.social/@mszll/109641856876435648&lt;/a>]&lt;/p>
-&lt;p>&lt;a href="">&lt;img src="https://community.datasci.social/images/communityscreenshot.png" alt="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers" title="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers">&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Please don&amp;rsquo;t be a jerk. We expect to treat each other respectfully.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No racism, sexism, homophobia, transphobia, xenophobia, or casteism&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No incitement of violence or promotion of violent ideologies&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No harassment, dogpiling, doxxing, or impersonation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No content that is considered illegal in Denmark or France&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No intentional sharing of false or misleading information&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No spam or commercial advertisements&lt;/strong&gt;&lt;br&gt;
+Accounts that make automated posts must: 1) ask for permission at signup or from the moderation team, 2) check &amp;ldquo;This is an automated account&amp;rdquo; in their profile, 3) not create more than one post per day, unless permitted by the moderation team.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nothing NSFW (not safe for work)&lt;/strong&gt;&lt;br&gt;
+NSFW material includes sexually explicit or violent media.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SIGN-UP for data scientists&lt;/strong&gt;&lt;br&gt;
+This is not a generalist server but for people working or interested in human-centric data science, broadly defined. Please register here only if that is the case. To get accepted for sign-up, specify your fit in the &amp;ldquo;Why do you want to join?&amp;rdquo; field.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Clarifying the spam rule</title><link>https://community.datasci.social/blog/2025-12-05/clarifying-the-spam-rule/</link><pubDate>Fri, 05 Dec 2025 09:10:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-12-05/clarifying-the-spam-rule/</guid><description>&lt;p&gt;With the possibility of the current Mastodon version to add detailed information to server rules, we added some new information to our existing rule &amp;ldquo;&lt;strong&gt;No spam or commercial advertisements&lt;/strong&gt;&amp;rdquo;. The new detailed information reads as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Accounts that make automated posts must: 1) ask for permission at signup or from the moderation team, 2) check &amp;ldquo;This is an automated account&amp;rdquo; in their profile, 3) not create more than one post per day, unless permitted by the moderation team.&lt;/p&gt;</description></item><item><title>Threads suspended</title><link>https://community.datasci.social/blog/2025-01-20/threads-suspended/</link><pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-01-20/threads-suspended/</guid><description>&lt;p&gt;As &lt;a href="https://datasci.social/@mszll/113798322214417466"&gt;announced two weeks ago&lt;/a&gt;, we suspended, or &amp;ldquo;defederated from&amp;rdquo;, threads.net today. So far &lt;a href="https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/"&gt;we have given the platform the benefit of the doubt following a vigilant &amp;ldquo;wait and see&amp;rdquo; approach&lt;/a&gt; - while hoping that this connection could bring about something positive. Unfortunately, with the recent change towards a &lt;a href="https://www.wired.com/story/meta-immigration-gender-policies-change/"&gt;purposefully dehumanizing moderation policy&lt;/a&gt;, federation with Threads has become incompatible for us. It does not help that, at the same time, &lt;a href="https://www.404media.co/meta-is-blocking-links-to-decentralized-instagram-competitor-pixelfed/"&gt;Meta is sabotaging the open web through censorship&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Two years old</title><link>https://community.datasci.social/blog/2024-11-15/two-years-old/</link><pubDate>Fri, 15 Nov 2024 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2024-11-15/two-years-old/</guid><description>&lt;p&gt;&lt;a href="https://datasci.social/@mszll/109363241516092529"&gt;Two years ago&lt;/a&gt;, datasci.social was created! 🥳2️⃣🎂&lt;br&gt;
+In this time datasci.social has become a vibrant online community: We just had our 10,000th message posted. Almost 500 people have joined from all over the world so far, from various disciplines or from industry, providing an online home for the data science community, broadly defined. Explore our awesome stream here: &lt;a href="https://datasci.social/public/local"&gt;https://datasci.social/public/local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://datascisocial.github.io/images/growth202411.png" alt="datasci.social lifetime user stats. Source: https://mastodon.fediverse.observer/datasci.social" title="datasci.social lifetime user stats. Source: https://mastodon.fediverse.observer/datasci.social"&gt;&lt;/p&gt;
+&lt;p&gt;The smoothly paced, mostly constant growth from the first year has continued. Since around a year, user churn has stabilized: We have on average around 3 new signups per week and 3 people becoming inactive, leading to a steady active user number somewhat above 100. With our fantastic team of &lt;a href="https://community.datasci.social/docs/moderation/#team"&gt;6 voluntary admins/moderators&lt;/a&gt; we are thus way above most other servers in our moderator per user ratio - smooth sailing! As before, we have enough capacity to grow and are open for signups.&lt;/p&gt;</description></item><item><title>Our stance on Threads</title><link>https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/</link><pubDate>Sun, 17 Dec 2023 14:57:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-12-17/our-stance-on-threads/</guid><description>&lt;p&gt;With Meta&amp;rsquo;s Threads recently starting &lt;a href="https://mastodon.social/@Gargron/111576825980285552"&gt;concrete federation experiments&lt;/a&gt;, we have been asked about datasci.social&amp;rsquo;s stance concerning preemptive suspension (also called &amp;ldquo;defederation&amp;rdquo; or &amp;ldquo;fediblock&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;Here my (Michael&amp;rsquo;s) short answer:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Has datasci.social suspended or limited the threads.net domain?&lt;br&gt;
+No.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Will datasci.social suspend or limit the threads.net domain?&lt;br&gt;
+Possibly, if/whenever necessary. We are closely monitoring the situation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Long answer: Given Meta&amp;rsquo;s abysmal history with surveillance capitalism and human rights it is reasonable to consider Threads a bad faith actor, meaning that its activities should be assumed to underlie as exploitative as possible motives. In the context of Mastodon this could mean some kind of &amp;ldquo;Embrace, extend, and extinguish&amp;rdquo; strategy, indiscriminate data collection, or worse. Therefore we are empathethic with any server admin who preemptively suspends or limits the threads.net domain. From our side however, we do not follow this strategy at the moment, because:&lt;/p&gt;</description></item><item><title>One year old</title><link>https://community.datasci.social/blog/2023-11-17/one-year-old/</link><pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-11-17/one-year-old/</guid><description>&lt;p&gt;&lt;a href="https://datasci.social/@mszll/109363241516092529"&gt;One year ago&lt;/a&gt;, datasci.social was created! 🥳🎂
+In this time datasci.social has become a vibrant online community with 286 people who have joined from all over the world, from various disciplines or from industry, providing an online home for the data science community, broadly defined. Explore our awesome stream here: &lt;a href="https://datasci.social/public/local"&gt;https://datasci.social/public/local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://community.datasci.social/"&gt;&lt;img src="https://datascisocial.github.io/images/social_oneyear.png" alt="datasci.social is 1 year old!" title="datasci.social is 1 year old!"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There has been smooth, mostly constant growth over the past year, and luckily we have been facing no moderative or technical challenges. Although we have a fantasic team of &lt;a href="https://community.datasci.social/docs/moderation/#team"&gt;6 voluntary admins/moderators&lt;/a&gt;, they didn&amp;rsquo;t have much to do: All that happened in a year was one week of interference from a few spam accounts spawning on other servers, which required in total 5 moderative actions. Our total downtime in this year was 488 minutes, which means an uptime of above 99.9%!&lt;/p&gt;</description></item><item><title>New admin</title><link>https://community.datasci.social/blog/2023-04-28/new-admin/</link><pubDate>Fri, 28 Apr 2023 10:26:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-04-28/new-admin/</guid><description>&lt;p&gt;One more admin joined our &lt;a href="https://community.datasci.social/docs/moderation/#team"&gt;team&lt;/a&gt; today: Lucio La Cava (&lt;a href="https://datasci.social/@luciolcw"&gt;@luciolcw&lt;/a&gt;)&lt;br&gt;
+Lucio is a researcher researching the social network of Mastodon, so he has particular insights into the system.&lt;/p&gt;
+&lt;p&gt;We still had zero moderative reports on our server so far, and we have a calm pace of new sign-ups. Therefore, there is currently no necessity to extend our team, but we want to be well prepared for a possible flood of sign-ups in case other, larger online social networks collapse.&lt;/p&gt;</description></item><item><title>100 members</title><link>https://community.datasci.social/blog/2023-02-27/100-members/</link><pubDate>Mon, 27 Feb 2023 10:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-02-27/100-members/</guid><description>&lt;p&gt;We have reached 100 members on &lt;a href="https://datasci.social"&gt;https://datasci.social&lt;/a&gt;! 🥳&lt;/p&gt;
+&lt;p&gt;Since opening registrations in Jan with 50 members we have doubled in size, following a nice pace of growth. We are now also steadily posting over 100 new posts/week.&lt;/p&gt;
+&lt;p&gt;With ample capacity to grow, we encourage everyone interested in data science, network science, computational social science, and related fields to join us, or to spread the word about our place. Although we have 5 mods/admins, we still had no single moderative report so far. Our server had 99.998% uptime. Smooth sailing!&lt;/p&gt;</description></item><item><title>Registrations opened</title><link>https://community.datasci.social/blog/2023-01-12/registrations-opened/</link><pubDate>Thu, 12 Jan 2023 11:00:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-12/registrations-opened/</guid><description>&lt;p&gt;🚨 &lt;strong&gt;Registrations at datasci.social are now open&lt;/strong&gt;! Sign up here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datasci.social/auth/sign_up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How to migrate your account: &lt;a href="https://mstdn.social/@feditips/107939441820299376"&gt;https://mstdn.social/@feditips/107939441820299376&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://datasci.social/auth/sign_up"&gt;&lt;img src="https://community.datasci.social/images/serverexpand.png" alt="datasci.social" title="datasci.social registrations open"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before doing so, let us clarify our &lt;a href="https://community.datasci.social/docs/management/#raison-d%C3%AAtre"&gt;philosophy&lt;/a&gt; and &lt;a href="https://community.datasci.social/docs/roadmap/"&gt;roadmap&lt;/a&gt;:&lt;/p&gt;
+&lt;h2 id="the-present-and-future-of-datascisocial"&gt;The present and future of datasci.social&lt;/h2&gt;
+&lt;p&gt;The instance was set up on Nov 17, 2022, for this reason:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p&gt;</description></item><item><title>New team, roadmap, community pages</title><link>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</link><pubDate>Fri, 06 Jan 2023 11:42:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-01-06/new-team-roadmap-community-pages/</guid><description>&lt;p&gt;In preparation for opening datasci.social registrations next week, some news 🚨&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;New mod/admin team: &lt;a href="https://community.datasci.social/docs/moderation/"&gt;https://community.datasci.social/docs/moderation/&lt;/a&gt; @benfmaier @eflegara @estebanmoro @sdesojo Not a single report so far, but good to be prepared.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We adhere to the Mastodon covenant: &lt;a href="https://joinmastodon.org/covenant"&gt;https://joinmastodon.org/covenant&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Roadmap: &lt;a href="https://community.datasci.social/docs/roadmap/"&gt;https://community.datasci.social/docs/roadmap/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community pages: &lt;a href="https://community.datasci.social/docs"&gt;https://community.datasci.social/docs&lt;/a&gt;, with info on management, moderation, security, server. Check it out! #mastoadmin #serverinfo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Stay tuned for opening news!&lt;/p&gt;
+&lt;p&gt;[Post copied from &lt;a href="https://datasci.social/@mszll/109641856876435648"&gt;https://datasci.social/@mszll/109641856876435648&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=""&gt;&lt;img src="https://community.datasci.social/images/communityscreenshot.png" alt="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers" title="Landing page of community.datasci.social. Social media for social data scientists. Especially welcome: Women, black, global south &amp;amp; marginalized researchers"&gt;&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Outage on community.datasci.social</title><link>https://community.datasci.social/tags/outage/</link><description>Recent content in Outage on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 14 Jul 2025 23:12:02 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/outage/index.xml" rel="self" type="application/rss+xml"/><item><title>Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>&lt;p>Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/">Support&lt;/a>&lt;/p>
-&lt;h2 id="registration">Registration&lt;/h2>
-&lt;p>Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/">&lt;code>open&lt;/code>&lt;/a>&lt;br>
-Register here: &lt;a href="https://datasci.social/auth/sign_up">https://datasci.social/auth/sign_up&lt;/a>&lt;/p>
-&lt;h2 id="status">Status&lt;/h2>
-&lt;p>Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
-&lt;h3 id="historical-uptimes">Historical uptimes&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Year&lt;/th>
- &lt;th>Uptime&lt;/th>
- &lt;th>Average downtime per month&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>2024&lt;/td>
- &lt;td>99.998%&lt;/td>
- &lt;td>&amp;lt;1 minute&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2023&lt;/td>
- &lt;td>99.908%&lt;/td>
- &lt;td>40 minutes&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2022&lt;/td>
- &lt;td>99.995%&lt;/td>
- &lt;td>&amp;lt;2 minutes&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="outages">Outages&lt;/h3>
-&lt;p>List of outages: &lt;a href="https://community.datasci.social/tags/outage/">/tags/outage&lt;/a>&lt;/p>
-&lt;h3 id="current-mastodon-version">Current Mastodon version&lt;/h3>
-&lt;p>&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.4.1">&lt;code>4.4.1&lt;/code>&lt;/a>, since 2025-07-13&lt;/p>
-&lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
-&lt;ul>
-&lt;li>Custom emojis: &lt;a href="https://emojos.in/datasci.social">https://emojos.in/datasci.social&lt;/a>&lt;/li>
-&lt;li>mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318">https://mastodon.help/instances?id=17318&lt;/a>&lt;/li>
-&lt;li>instances.social directory: &lt;a href="https://instances.social/datasci.social">https://instances.social/datasci.social&lt;/a>&lt;/li>
-&lt;li>Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social">https://mastodon.fediverse.observer/datasci.social&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Image loading issues</title><link>https://community.datasci.social/blog/2025-06-06/image-loading-issues/</link><pubDate>Fri, 06 Jun 2025 08:10:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-06-06/image-loading-issues/</guid><description>&lt;p>As &lt;a href="https://datasci.social/@mszll/114624016346626261">announced yesterday&lt;/a>, we had some image loading issues in the last two days, where some images did not load, and images could not be added to posts. By now, the problem has resolved itself automatically - thank you for your understanding.&lt;/p>
-&lt;p>The reason for this outage was the migration to a more stable provider to avoid &lt;a href="https://community.datasci.social/blog/2025-04-20/10h-server-outage/">full outages like the last one in April&lt;/a>: An additional cache for images was added that also stores the data in an efficient manner, but due to the large initial load some of its requests were timing out to the backend. To resolve this quicker, our server admins were increasing the timeouts, and were also manually pushing data into it so it had data before the initial request.&lt;/p></description></item><item><title>10h server outage</title><link>https://community.datasci.social/blog/2025-04-20/10h-server-outage/</link><pubDate>Sun, 20 Apr 2025 09:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-04-20/10h-server-outage/</guid><description>&lt;p>We had an unplanned server outage between April 15th and 17th for 10h01min, for technical reasons. We are sorry for the downtime and thank you for your understanding. See our server status here: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
-&lt;p>The server admins took care of the issue asap, but we are only able to communicate it now due to easter holidays.&lt;/p></description></item><item><title>99.908% Uptime in 2023</title><link>https://community.datasci.social/blog/2024-02-03/99.908-uptime-in-2023/</link><pubDate>Sat, 03 Feb 2024 17:08:00 +0100</pubDate><guid>https://community.datasci.social/blog/2024-02-03/99.908-uptime-in-2023/</guid><description>&lt;p>We crunched the numbers and are happy to report that in 2023 &lt;a href="https://datasci.social">https://datasci.social&lt;/a> had an uptime of 99.908%. The difference to 100% was due to two unplanned downtimes of around 4 hours each. Our uptime from our founding in Nov 2022 until now is 99.923%, meaning a downtime of 34 minutes per month on average.&lt;/p>
-&lt;p>We strive to keep this high reliability. Despite not being a commercial service, our reliability level fulfils the 99.9% Service Level Agreements of cloud services of major industry players like Amazon, Google, and Microsoft.&lt;/p></description></item><item><title>4h server outage</title><link>https://community.datasci.social/blog/2023-09-06/4h-server-outage/</link><pubDate>Wed, 06 Sep 2023 15:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-09-06/4h-server-outage/</guid><description>&lt;p>We had an unplanned server outage on saturday for 4h14min, for technical reasons. We are sorry for the downtime and thank you for your understanding.&lt;/p>
-&lt;p>This downtime has decreased our server uptime in this year to 99.86%, which is still less than an hour downtime per month.&lt;/p></description></item><item><title>4h server outage</title><link>https://community.datasci.social/blog/2023-03-02/4h-server-outage/</link><pubDate>Thu, 02 Mar 2023 16:40:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-03-02/4h-server-outage/</guid><description>&lt;p>We just had a server outage for 3h51min. We are sorry for the downtime. The reason had to do with a release of the IP by the infrastructure provider. According to our server host this is being worked on so it cannot happen again. Thank you for your understanding.&lt;/p></description></item><item><title>99.990% Uptime</title><link>https://community.datasci.social/blog/2022-12-13/99.990-uptime/</link><pubDate>Tue, 13 Dec 2022 13:58:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-13/99.990-uptime/</guid><description>&lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109506480484787426">https://datasci.social/@mszll/109506480484787426&lt;/a>]&lt;/p>
-&lt;p>Happy to report that in the first 3+ weeks of running datasci.social we had 99.990% uptime. We missed one 5-minute tick. #mastoadmin #serverinfo&lt;br>
-&lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">https://stats.uptimerobot.com/DllMwIoAWM&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://stats.uptimerobot.com/DllMwIoAWM">&lt;img src="https://datascisocial.github.io/images/594fbe6cf4a55618.png" alt="status bar showing green statuses for the last 3&amp;#43; weeks and 99.990% uptime" title="status bar showing green statuses for the last 3&amp;#43; weeks and 99.990% uptime">&lt;/a>&lt;/p></description></item><item><title>Email outage</title><link>https://community.datasci.social/blog/2022-11-20/email-outage/</link><pubDate>Sun, 20 Nov 2022 08:03:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-11-20/email-outage/</guid><description>&lt;p>[Post copied from &lt;a href="https://datasci.social/@mszll/109374854036872933">https://datasci.social/@mszll/109374854036872933&lt;/a>]&lt;/p>
-&lt;p>We had a slight hiccup at datasci.social with our email provider in the last ~16 hours which has been resolved now. (Was due to #TwitterMigration) Sorry for any delays in receiving system emails, like for sign-up. #mastoadmin #serverinfo&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Outage on community.datasci.social</title><link>https://community.datasci.social/tags/outage/</link><description>Recent content in Outage on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 14 Jul 2025 23:12:02 +0200</lastBuildDate><atom:link href="https://community.datasci.social/tags/outage/index.xml" rel="self" type="application/rss+xml"/><item><title>Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>&lt;p&gt;Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/"&gt;Support&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="registration"&gt;Registration&lt;/h2&gt;
+&lt;p&gt;Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/"&gt;&lt;code&gt;open&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datasci.social/auth/sign_up&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="status"&gt;Status&lt;/h2&gt;
+&lt;p&gt;Current status: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM"&gt;https://stats.uptimerobot.com/DllMwIoAWM&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="historical-uptimes"&gt;Historical uptimes&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Year&lt;/th&gt;
+ &lt;th&gt;Uptime&lt;/th&gt;
+ &lt;th&gt;Average downtime per month&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2024&lt;/td&gt;
+ &lt;td&gt;99.998%&lt;/td&gt;
+ &lt;td&gt;&amp;lt;1 minute&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2023&lt;/td&gt;
+ &lt;td&gt;99.908%&lt;/td&gt;
+ &lt;td&gt;40 minutes&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2022&lt;/td&gt;
+ &lt;td&gt;99.995%&lt;/td&gt;
+ &lt;td&gt;&amp;lt;2 minutes&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="outages"&gt;Outages&lt;/h3&gt;
+&lt;p&gt;List of outages: &lt;a href="https://community.datasci.social/tags/outage/"&gt;/tags/outage&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="current-mastodon-version"&gt;Current Mastodon version&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.4.1"&gt;&lt;code&gt;4.4.1&lt;/code&gt;&lt;/a&gt;, since 2025-07-13&lt;/p&gt;
+&lt;h2 id="miscellaneous"&gt;Miscellaneous&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom emojis: &lt;a href="https://emojos.in/datasci.social"&gt;https://emojos.in/datasci.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318"&gt;https://mastodon.help/instances?id=17318&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;instances.social directory: &lt;a href="https://instances.social/datasci.social"&gt;https://instances.social/datasci.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social"&gt;https://mastodon.fediverse.observer/datasci.social&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Image loading issues</title><link>https://community.datasci.social/blog/2025-06-06/image-loading-issues/</link><pubDate>Fri, 06 Jun 2025 08:10:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-06-06/image-loading-issues/</guid><description>&lt;p&gt;As &lt;a href="https://datasci.social/@mszll/114624016346626261"&gt;announced yesterday&lt;/a&gt;, we had some image loading issues in the last two days, where some images did not load, and images could not be added to posts. By now, the problem has resolved itself automatically - thank you for your understanding.&lt;/p&gt;
+&lt;p&gt;The reason for this outage was the migration to a more stable provider to avoid &lt;a href="https://community.datasci.social/blog/2025-04-20/10h-server-outage/"&gt;full outages like the last one in April&lt;/a&gt;: An additional cache for images was added that also stores the data in an efficient manner, but due to the large initial load some of its requests were timing out to the backend. To resolve this quicker, our server admins were increasing the timeouts, and were also manually pushing data into it so it had data before the initial request.&lt;/p&gt;</description></item><item><title>10h server outage</title><link>https://community.datasci.social/blog/2025-04-20/10h-server-outage/</link><pubDate>Sun, 20 Apr 2025 09:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2025-04-20/10h-server-outage/</guid><description>&lt;p&gt;We had an unplanned server outage between April 15th and 17th for 10h01min, for technical reasons. We are sorry for the downtime and thank you for your understanding. See our server status here: &lt;a href="https://stats.uptimerobot.com/DllMwIoAWM"&gt;https://stats.uptimerobot.com/DllMwIoAWM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The server admins took care of the issue asap, but we are only able to communicate it now due to easter holidays.&lt;/p&gt;</description></item><item><title>99.908% Uptime in 2023</title><link>https://community.datasci.social/blog/2024-02-03/99.908-uptime-in-2023/</link><pubDate>Sat, 03 Feb 2024 17:08:00 +0100</pubDate><guid>https://community.datasci.social/blog/2024-02-03/99.908-uptime-in-2023/</guid><description>&lt;p&gt;We crunched the numbers and are happy to report that in 2023 &lt;a href="https://datasci.social"&gt;https://datasci.social&lt;/a&gt; had an uptime of 99.908%. The difference to 100% was due to two unplanned downtimes of around 4 hours each. Our uptime from our founding in Nov 2022 until now is 99.923%, meaning a downtime of 34 minutes per month on average.&lt;/p&gt;
+&lt;p&gt;We strive to keep this high reliability. Despite not being a commercial service, our reliability level fulfils the 99.9% Service Level Agreements of cloud services of major industry players like Amazon, Google, and Microsoft.&lt;/p&gt;</description></item><item><title>4h server outage</title><link>https://community.datasci.social/blog/2023-09-06/4h-server-outage/</link><pubDate>Wed, 06 Sep 2023 15:30:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-09-06/4h-server-outage/</guid><description>&lt;p&gt;We had an unplanned server outage on saturday for 4h14min, for technical reasons. We are sorry for the downtime and thank you for your understanding.&lt;/p&gt;
+&lt;p&gt;This downtime has decreased our server uptime in this year to 99.86%, which is still less than an hour downtime per month.&lt;/p&gt;</description></item><item><title>4h server outage</title><link>https://community.datasci.social/blog/2023-03-02/4h-server-outage/</link><pubDate>Thu, 02 Mar 2023 16:40:00 +0100</pubDate><guid>https://community.datasci.social/blog/2023-03-02/4h-server-outage/</guid><description>&lt;p&gt;We just had a server outage for 3h51min. We are sorry for the downtime. The reason had to do with a release of the IP by the infrastructure provider. According to our server host this is being worked on so it cannot happen again. Thank you for your understanding.&lt;/p&gt;</description></item><item><title>99.990% Uptime</title><link>https://community.datasci.social/blog/2022-12-13/99.990-uptime/</link><pubDate>Tue, 13 Dec 2022 13:58:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-12-13/99.990-uptime/</guid><description>&lt;p&gt;[Post copied from &lt;a href="https://datasci.social/@mszll/109506480484787426"&gt;https://datasci.social/@mszll/109506480484787426&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Happy to report that in the first 3+ weeks of running datasci.social we had 99.990% uptime. We missed one 5-minute tick. #mastoadmin #serverinfo&lt;br&gt;
+&lt;a href="https://stats.uptimerobot.com/DllMwIoAWM"&gt;https://stats.uptimerobot.com/DllMwIoAWM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stats.uptimerobot.com/DllMwIoAWM"&gt;&lt;img src="https://datascisocial.github.io/images/594fbe6cf4a55618.png" alt="status bar showing green statuses for the last 3&amp;#43; weeks and 99.990% uptime" title="status bar showing green statuses for the last 3&amp;#43; weeks and 99.990% uptime"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Email outage</title><link>https://community.datasci.social/blog/2022-11-20/email-outage/</link><pubDate>Sun, 20 Nov 2022 08:03:00 +0100</pubDate><guid>https://community.datasci.social/blog/2022-11-20/email-outage/</guid><description>&lt;p&gt;[Post copied from &lt;a href="https://datasci.social/@mszll/109374854036872933"&gt;https://datasci.social/@mszll/109374854036872933&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;We had a slight hiccup at datasci.social with our email provider in the last ~16 hours which has been resolved now. (Was due to #TwitterMigration) Sorry for any delays in receiving system emails, like for sign-up. #mastoadmin #serverinfo&lt;/p&gt;</description></item></channel></rss>
