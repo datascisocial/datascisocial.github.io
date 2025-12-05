@@ -11,6 +11,8 @@ With the possibility of the current Mastodon version to add detailed information
 
 This update became necessary due to a few new accounts that were created on our server in the past months that made frequent automated posts. In principle automated posts can be fine, but for our server we want these to be used sparingly to not disrupt the local organic feed too much (and to not use up unnecessary resources).
 
+To provide enough time to comply, we will start enforcing this new rule from December 10th, 2025.
+
 Further, we reformatted two other rules without changing them, to make them shorter and have details in the detailed information field.
 
 See our rules page for details: https://community.datasci.social/docs/server-rules/
