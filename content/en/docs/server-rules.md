@@ -18,5 +18,7 @@ This page should always be held in sync with the [server rules](https://datasci.
 - **No intentional sharing of false or misleading information**
 - **No spam or commercial advertisements**  
 Accounts that make automated posts, must: 1) ask for permission at signup or from the moderation team, 2) check "This is an automated account" in their profile, 3) not create more than one post per day, unless permitted by the moderation team.
-- **Nothing NSFW (not safe for work), such as sexually explicit or violent media**
-- **SIGN-UP: This is not a generalist server but for people working or interested in human-centric data science, broadly defined. Please register here only if that is the case. To get accepted for sign-up, specify your fit in the "Why do you want to join?" field.**
+- **Nothing NSFW (not safe for work)**  
+NSFW material includes sexually explicit or violent media.
+- **SIGN-UP for data scientists**  
+This is not a generalist server but for people working or interested in human-centric data science, broadly defined. Please register here only if that is the case. To get accepted for sign-up, specify your fit in the "Why do you want to join?" field.
