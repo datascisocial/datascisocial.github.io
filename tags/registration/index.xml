@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Registration on community.datasci.social</title><link>https://community.datasci.social/tags/registration/</link><description>Recent content in Registration on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 08 Dec 2025 19:55:06 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/registration/index.xml" rel="self" type="application/rss+xml"/><item><title>Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>&lt;p&gt;Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/"&gt;Support&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Registration on community.datasci.social</title><link>https://community.datasci.social/tags/registration/</link><description>Recent content in Registration on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 03 Jan 2026 14:22:19 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/registration/index.xml" rel="self" type="application/rss+xml"/><item><title>Server</title><link>https://community.datasci.social/docs/server/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server/</guid><description>&lt;p&gt;Our server is hosted in the world&amp;rsquo;s largest data center in France and managed by experienced Mastodon server admins. To support our running costs, please see: &lt;a href="https://community.datasci.social/docs/support/"&gt;Support&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="registration"&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration is currently: &lt;a href="https://community.datasci.social/blog/2023-01-12/registrations-opened/"&gt;&lt;code&gt;open&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
 Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datasci.social/auth/sign_up&lt;/a&gt;&lt;/p&gt;
@@ -14,6 +14,16 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datas
  &lt;/tr&gt;
  &lt;/thead&gt;
  &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;All-time&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;99.931%&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;30 minutes&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2025&lt;/td&gt;
+ &lt;td&gt;99.876%&lt;/td&gt;
+ &lt;td&gt;54 minutes&lt;/td&gt;
+ &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;2024&lt;/td&gt;
  &lt;td&gt;99.998%&lt;/td&gt;
@@ -34,14 +44,7 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datas
 &lt;h3 id="outages"&gt;Outages&lt;/h3&gt;
 &lt;p&gt;List of outages: &lt;a href="https://community.datasci.social/tags/outage/"&gt;/tags/outage&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="current-mastodon-version"&gt;Current Mastodon version&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.5.3"&gt;&lt;code&gt;4.5.3&lt;/code&gt;&lt;/a&gt;, since 2025-12-08&lt;/p&gt;
-&lt;h2 id="miscellaneous"&gt;Miscellaneous&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Custom emojis: &lt;a href="https://emojos.in/datasci.social"&gt;https://emojos.in/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318"&gt;https://mastodon.help/instances?id=17318&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;instances.social directory: &lt;a href="https://instances.social/datasci.social"&gt;https://instances.social/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social"&gt;https://mastodon.fediverse.observer/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Roadmap</title><link>https://community.datasci.social/docs/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/roadmap/</guid><description>&lt;h3 id="roadmap-post-2023"&gt;Roadmap post-2023&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.5.3"&gt;&lt;code&gt;4.5.3&lt;/code&gt;&lt;/a&gt;, since 2025-12-08&lt;/p&gt;</description></item><item><title>Roadmap</title><link>https://community.datasci.social/docs/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/roadmap/</guid><description>&lt;h3 id="roadmap-post-2023"&gt;Roadmap post-2023&lt;/h3&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;

@@ -66,6 +66,16 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datas
  &lt;/thead&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;All-time&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;99.931%&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;30 minutes&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2025&lt;/td&gt;
+ &lt;td&gt;99.876%&lt;/td&gt;
+ &lt;td&gt;54 minutes&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
  &lt;td&gt;2024&lt;/td&gt;
  &lt;td&gt;99.998%&lt;/td&gt;
  &lt;td&gt;&amp;lt;1 minute&lt;/td&gt;
@@ -85,14 +95,7 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datas
 &lt;h3 id="outages"&gt;Outages&lt;/h3&gt;
 &lt;p&gt;List of outages: &lt;a href="https://community.datasci.social/tags/outage/"&gt;/tags/outage&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="current-mastodon-version"&gt;Current Mastodon version&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.5.3"&gt;&lt;code&gt;4.5.3&lt;/code&gt;&lt;/a&gt;, since 2025-12-08&lt;/p&gt;
-&lt;h2 id="miscellaneous"&gt;Miscellaneous&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Custom emojis: &lt;a href="https://emojos.in/datasci.social"&gt;https://emojos.in/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;mastodon.help directory: &lt;a href="https://mastodon.help/instances?id=17318"&gt;https://mastodon.help/instances?id=17318&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;instances.social directory: &lt;a href="https://instances.social/datasci.social"&gt;https://instances.social/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fediverse Observer directory: &lt;a href="https://mastodon.fediverse.observer/datasci.social"&gt;https://mastodon.fediverse.observer/datasci.social&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
+&lt;p&gt;&lt;a href="https://github.com/mastodon/mastodon/releases/tag/v4.5.3"&gt;&lt;code&gt;4.5.3&lt;/code&gt;&lt;/a&gt;, since 2025-12-08&lt;/p&gt;</description></item><item><title>Server rules</title><link>https://community.datasci.social/docs/server-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/server-rules/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
 &lt;p&gt;This page should always be held in sync with the &lt;a href="https://datasci.social/about"&gt;server rules&lt;/a&gt; and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.&lt;/p&gt;
 
 &lt;/div&gt;
