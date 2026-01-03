@@ -19,6 +19,8 @@ Current status: [https://stats.uptimerobot.com/DllMwIoAWM](https://stats.uptimer
 
 |Year |Uptime  | Average downtime per month|
 --- | --- | ---|
+**All-time** | **99.931%** | **30 minutes**|
+2025| 99.876% |  54 minutes|
 2024| 99.998% |  <1 minute|
 2023| 99.908% | 40 minutes|
 2022| 99.995% | <2 minutes|
