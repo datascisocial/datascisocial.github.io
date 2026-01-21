@@ -23,7 +23,11 @@ Our admin contact email is: datasci.social@proton.me
 ## Individual-based moderation
 
 ### Sign-up
-Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in [our server rules](/docs/server-rules). Inadequate reasons include any generic statements such as "joining to learn", "networking", "interesting server", "coming from twitter", etc. We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up application. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon. 
+Moderation for individuals begins with checking whether a new user provided an adequate reason during their sign-up application, as stated in [our server rules](/docs/server-rules). Inadequate reasons include any generic statements like "joining to learn", "networking", "interesting server", "coming from twitter", or AI-generated templates such as:
+
+> Hi! I’m interested in joining datasci.social because I work in or have a strong interest in data science, machine learning, and analytics. I enjoy discussing techniques, sharing insights, learning from others’ experiences, and keeping up with trends in the field. I value respectful, well-moderated communities and plan to follow the instance rules while contributing positively.
+
+We expect people on our server to actually read and follow our server rules and reserve the right to decline any such inadequate sign-up applications. This process also provides a layer of protection for our server from spam bots attempting to sign up, which is a common issue on Mastodon. 
 
 We process sign-up applications as leniently as possible and are happy to welcome everybody, but please read the rules - they are to the point. We also aim to be as fast as possible; in the worst case it can take up to 12 hours, usually much faster.
 
