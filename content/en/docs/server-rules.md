@@ -10,7 +10,8 @@ tags: [server, community, moderation]
 This page should always be held in sync with the [server rules](https://datasci.social/about) and therefore be edited only by an admin, so the github change log of this page serves as a rule change log.
 {{% /pageinfo %}}
 
-- **Please don't be a jerk. We expect to treat each other respectfully.**
+- **Please don't be a jerk.**
+We expect to treat each other respectfully.
 - **No racism, sexism, homophobia, transphobia, xenophobia, or casteism**
 - **No incitement of violence or promotion of violent ideologies**
 - **No harassment, dogpiling, doxxing, or impersonation**
