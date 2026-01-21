@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 03 Jan 2026 14:22:19 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre"&gt;Raison d&amp;rsquo;être&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on community.datasci.social</title><link>https://community.datasci.social/tags/server/</link><description>Recent content in Server on community.datasci.social</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 21 Jan 2026 08:58:16 +0100</lastBuildDate><atom:link href="https://community.datasci.social/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Management</title><link>https://community.datasci.social/docs/management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://community.datasci.social/docs/management/</guid><description>&lt;h3 id="raison-dêtre"&gt;Raison d&amp;rsquo;être&lt;/h3&gt;
 &lt;p&gt;The datasci.social instance was &lt;a href="https://community.datasci.social/blog/2022-11-17/datasci.social-opened/"&gt;set up on Nov 17, 2022&lt;/a&gt;, for this reason:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The goal of this server is to create a community of nice and diverse people who are researching human-centric data science and adjacent topics. For example human-centric data/network science, social data science, urban/geospatial data science, computational social science. Not welcome: bullies, harassers, big abusive/toxic egos.&lt;/p&gt;
@@ -55,7 +55,8 @@ Register here: &lt;a href="https://datasci.social/auth/sign_up"&gt;https://datas
 &lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Please don&amp;rsquo;t be a jerk. We expect to treat each other respectfully.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Please don&amp;rsquo;t be a jerk.&lt;/strong&gt;
+We expect to treat each other respectfully.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No racism, sexism, homophobia, transphobia, xenophobia, or casteism&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No incitement of violence or promotion of violent ideologies&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No harassment, dogpiling, doxxing, or impersonation&lt;/strong&gt;&lt;/li&gt;
