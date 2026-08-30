@@ -19,7 +19,7 @@ We expect to treat each other respectfully.
 - **No intentional sharing of false or misleading information**
 - **Nothing NSFW (not safe for work)**  
 NSFW material includes sexually explicit or violent media.
-- **No commercial advertisements, unless permitted**
+- **No commercial advertisements, unless permitted**  
 Accounts that want to make commercial advertisements must: 1) ask for permission from the moderation team, 2) not create more than one post per day that can be interpreted as commercial advertisement.
 - **Only human users**  
 No AI/LLM accounts that post by themselves. It is still allowed for a human to run an account with automated posts but such account holders must: 1) ask for permission before signup from the moderation team, 2) check "This is an automated account" in their profile, 3) not create more than one post per day, unless permitted by the moderation team.
