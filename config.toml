@@ -64,6 +64,8 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
+[security]
+allowContent = ['.*'] # https://newreleases.io/project/github/gohugoio/hugo/release/v0.162.0
 
 [markup]
   [markup.goldmark]
